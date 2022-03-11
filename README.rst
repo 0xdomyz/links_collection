@@ -1,4 +1,4 @@
-collection_template
+Reading List
 ===================
 
-template for collection repos
+WIP
