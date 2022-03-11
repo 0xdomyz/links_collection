@@ -1,4 +1,4 @@
-Reading List
-===================
+Collection of online resources' links
+=======================================
 
 WIP
