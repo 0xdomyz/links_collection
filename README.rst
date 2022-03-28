@@ -1,4 +1,4 @@
-Collection of online resources' links
+Collection of links
 =======================================
 
 WIP
