@@ -1,5 +1,17 @@
+generic
+----------
+
 `connect <https://www.thesecmaster.com/five-easiest-ways-to-connect-raspberry-pi-remotely-in-2021/>`_
 
-https://www.tomshardware.com/how-to/run-long-running-scripts-raspberry-pi
+`long running scrip <https://www.tomshardware.com/how-to/run-long-running-scripts-raspberry-pi>`_ 
 
-https://realpython.com/python-raspberry-pi/#editing-remotely-over-ssh
+`ssh <https://realpython.com/python-raspberry-pi/#editing-remotely-over-ssh>`_ 
+
+install python
+---------------
+
+`install from zip <https://aruljohn.com/blog/python-raspberrypi/>`_
+
+`debian install <https://bobcares.com/blog/how-to-install-python-3-9-on-debian-10/>`_
+
+
