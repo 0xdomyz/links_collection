@@ -14,4 +14,7 @@ install python
 
 `debian install <https://bobcares.com/blog/how-to-install-python-3-9-on-debian-10/>`_
 
+Anti-virus
+------------------
 
+`clamscan <https://pimylifeup.com/raspberry-pi-clamav/>`_
