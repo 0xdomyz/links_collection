@@ -5,7 +5,7 @@ generic
 
 `long running scrip <https://www.tomshardware.com/how-to/run-long-running-scripts-raspberry-pi>`_ 
 
-`set up for python <https://realpython.com/python-raspberry-pi/#editing-remotely-over-ssh>`_ 
+`physical project with python <https://realpython.com/python-raspberry-pi/#editing-remotely-over-ssh>`_ 
 
 SSH
 ------
