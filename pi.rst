@@ -7,6 +7,17 @@ generic
 
 `ssh <https://realpython.com/python-raspberry-pi/#editing-remotely-over-ssh>`_ 
 
+SSH
+------
+
+`processor <https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/>`_
+
+`putty <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
+
+`password <https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/>`_
+
+
+
 install python
 ---------------
 
