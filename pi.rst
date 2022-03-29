@@ -1,7 +1,7 @@
 SSH
 ------
 
-`tutorial <https://www.thesecmaster.com/five-easiest-ways-to-connect-raspberry-pi-remotely-in-2021/>`_
+`tute <https://www.thesecmaster.com/five-easiest-ways-to-connect-raspberry-pi-remotely-in-2021/>`_
 
 `processor <https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/>`_
 
@@ -28,7 +28,17 @@ python
 
 `physical project with python <https://realpython.com/python-raspberry-pi/#editing-remotely-over-ssh>`_ 
 
+shell
+-------
+
+`tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
+
+github
+------
+
+`tute <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_
+
 vim
 ---------
 
-`last time <https://danielmiessler.com/study/vim/>`_
+`tute <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/>`_
