@@ -9,6 +9,8 @@ SSH
 
 `password <https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/>`_
 
+`transfer files <https://howchoo.com/pi/how-to-transfer-files-to-the-raspberry-pi>`_
+
 install python
 ---------------
 
