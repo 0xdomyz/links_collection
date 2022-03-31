@@ -22,6 +22,8 @@ install python
 
 `debian install <https://bobcares.com/blog/how-to-install-python-3-9-on-debian-10/>`_
 
+sudo apt-get install python3-venv libatlas-base-dev cmake curl
+
 Anti-virus
 ------------------
 
