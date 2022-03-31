@@ -2,6 +2,8 @@ Doc
 -----
 `pi os <https://www.raspberrypi.com/documentation/computers/os.html>`_
 
+`upgrade os <https://raspberrytips.com/update-raspberry-pi-latest-version/>`_
+
 SSH
 ------
 
