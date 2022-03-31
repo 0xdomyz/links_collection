@@ -11,6 +11,10 @@ SSH
 
 `transfer files <https://howchoo.com/pi/how-to-transfer-files-to-the-raspberry-pi>`_
 
+`ssh from outside lan <https://forums.raspberrypi.com/viewtopic.php?t=20826>`_
+
+`denyhosts <https://www.techrepublic.com/article/how-to-block-ssh-attacks-on-linux-with-denyhosts/amp/>`_
+
 install python
 ---------------
 
