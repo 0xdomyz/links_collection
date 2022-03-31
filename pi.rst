@@ -1,3 +1,7 @@
+Doc
+-----
+`pi os <https://www.raspberrypi.com/documentation/computers/os.html>`_
+
 SSH
 ------
 
