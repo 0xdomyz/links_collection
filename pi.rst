@@ -1,8 +1,10 @@
-Doc
+pi
 -----
 `pi os <https://www.raspberrypi.com/documentation/computers/os.html>`_
 
 `upgrade os <https://raspberrytips.com/update-raspberry-pi-latest-version/>`_
+
+`factory reset <https://raspians.com/how-to-reset-raspberry-pi/>`_
 
 SSH
 ------
