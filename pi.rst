@@ -57,4 +57,4 @@ github
 vim
 ---------
 
-`tute <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/>`_
+`tute <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents>`_
