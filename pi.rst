@@ -1,8 +1,22 @@
 pi
------
-`image <https://www.raspberrypi.com/software/>`_
+----------
+`doco <https://www.raspberrypi.com/documentation.html>`_
 
 `os doco <https://www.raspberrypi.com/documentation/computers/os.html>`_
+
+`imaging <https://www.raspberrypi.com/software/>`_
+
+python packages
+-----------------
+
+::
+
+    python3 -m pip install -U numpy
+    python3 -m pip install -U pandas
+    sudo apt-get install libatlas-base-dev
+
+os tute
+--------
 
 `upgrade os <https://raspberrytips.com/update-raspberry-pi-latest-version/>`_
 
@@ -25,22 +39,20 @@ SSH
 
 `denyhosts <https://www.techrepublic.com/article/how-to-block-ssh-attacks-on-linux-with-denyhosts/amp/>`_
 
-install python
----------------
+install python from source
+---------------------------
 
 `install from zip <https://aruljohn.com/blog/python-raspberrypi/>`_
 
 `debian install <https://bobcares.com/blog/how-to-install-python-3-9-on-debian-10/>`_
-
-sudo apt-get install python3-venv libatlas-base-dev cmake curl
 
 Anti-virus
 ------------------
 
 `clamscan <https://pimylifeup.com/raspberry-pi-clamav/>`_
 
-python
-----------
+python projects
+-----------------
 
 `long running scripts <https://www.tomshardware.com/how-to/run-long-running-scripts-raspberry-pi>`_ 
 
