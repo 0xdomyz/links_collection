@@ -22,6 +22,14 @@ os tute
 
 `factory reset <https://raspians.com/how-to-reset-raspberry-pi/>`_
 
+`boot from usb <https://www.pragmaticlinux.com/2021/12/directly-boot-your-raspberry-pi-4-from-a-usb-drive/>`_
+
+`sata to usb <https://cplonline.com.au/simplecom-sa205-compact-usb3-0-to-sata-adater-cable-converter-for-2-5-ssd-hdd.html>`_
+
+`ssd <https://cplonline.com.au/gigabyte-gp-gstfs31120gntd-ssd-120gb-sata3.html>`_
+
+
+
 SSH
 ------
 
