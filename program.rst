@@ -8,6 +8,8 @@ vim
 
 `tute <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents>`_
 
+`cheatsheet <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet>`_
+
 `set up for python <https://realpython.com/vim-and-python-a-match-made-in-heaven/>`_
 
 book
