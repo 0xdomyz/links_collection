@@ -44,17 +44,4 @@ python
 
 `physical project with python <https://realpython.com/python-raspberry-pi>`_ 
 
-shell
--------
 
-`tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
-
-github
-------
-
-`tute <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_
-
-vim
----------
-
-`tute <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents>`_
