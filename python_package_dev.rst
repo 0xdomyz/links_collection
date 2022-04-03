@@ -9,6 +9,11 @@ Packaging
 
 `Packaging tutorial <https://python-packaging.readthedocs.io/en/latest/index.html>`_
 
+Python versions
+=================
+
+`registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
+
 Vitual Environment
 ==================
 
