@@ -17,6 +17,7 @@ Publishing:
     twine upload dist/*
     
 user name: __token__
+
 password: token
 
 Vitual Environment
