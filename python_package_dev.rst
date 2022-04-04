@@ -14,6 +14,11 @@ Vitual Environment
 
 `Real python tute <https://realpython.com/python-virtual-environments-a-primer/>`_
 
+dependency management
+===========================
+
+`strat <https://blog.inedo.com/python-package-dependency-managament-demystified>`_
+
 Documentation
 =============
 
