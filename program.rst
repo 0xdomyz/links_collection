@@ -1,7 +1,9 @@
 github
 -------
 
-`tute <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_
+`git <https://docs.github.com/en/get-started/quickstart/set-up-git>`_
+
+`ssh <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_
 
 vim
 ---------
