@@ -51,6 +51,8 @@ Documentation
 
 `Read the Docs tutorial <https://docs.readthedocs.io/en/stable/tutorial/>`_
 
+`example <https://github.com/0xdomyz/dwopt/blob/master/docs/source/conf.py>`_
+
 Lint
 ======
 
