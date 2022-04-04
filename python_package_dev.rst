@@ -12,6 +12,8 @@ Packaging
 Python versions
 =================
 
+`windows installation <https://www.python.org/downloads/windows/>`_
+
 `registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
 
 Vitual Environment
