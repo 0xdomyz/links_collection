@@ -53,6 +53,16 @@ Documentation
 
 `example <https://github.com/0xdomyz/dwopt/blob/master/docs/source/conf.py>`_
 
+Quick set-up:
+
+.. code-block:: console
+
+    mkdir docs
+    sphinx-quickstart docs
+    echo .. include:: ../../README.rst > docs\source\index.rst
+    docs\make html
+    docs\build\html\index.html
+
 Lint
 ======
 
