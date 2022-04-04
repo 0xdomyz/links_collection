@@ -9,6 +9,13 @@ Packaging
 
 `Packaging tutorial <https://python-packaging.readthedocs.io/en/latest/index.html>`_
 
+Publishing:
+
+.. code-block:: console
+
+    python -m build
+    twine upload dist/*
+
 Vitual Environment
 ==================
 
