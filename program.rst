@@ -28,6 +28,14 @@ visual studio
 
 `c++ build tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_
 
+Python
+-----------------
+
+`windows installation <https://www.python.org/downloads/windows/>`_
+
+`registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
+
+
 linux
 -------
 
