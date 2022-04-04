@@ -28,6 +28,13 @@ visual studio
 
 `c++ build tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_
 
+linux
+-------
+
+`windows sub sys <https://windowsloop.com/install-linux-subsystem-windows-10>`_
+
+`shell tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
+
 book
 ------
 
