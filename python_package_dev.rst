@@ -9,6 +9,8 @@ Packaging
 
 `Packaging tutorial <https://python-packaging.readthedocs.io/en/latest/index.html>`_
 
+`pypi <https://pypi.org/>`_
+
 Publishing:
 
 .. code-block:: console
