@@ -1,9 +1,11 @@
-github
--------
+git/hub
+-----------
 
 `git <https://docs.github.com/en/get-started/quickstart/set-up-git>`_
 
 `ssh <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_
+
+`git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
 
 vim
 ---------
