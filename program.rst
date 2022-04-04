@@ -7,6 +7,13 @@ git/hub
 
 `git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
 
+vscode
+----------
+
+`windows <https://code.visualstudio.com/>`_
+
+`kill terminal <https://stackoverflow.com/questions/50569100/vscode-how-to-make-ctrlk-kill-till-the-end-of-line-in-the-terminal>`_
+
 vim
 ---------
 
@@ -15,6 +22,11 @@ vim
 `cheatsheet <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet>`_
 
 `set up for python <https://realpython.com/vim-and-python-a-match-made-in-heaven/>`_
+
+visual studio
+---------------
+
+`c++ build tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_
 
 book
 ------
