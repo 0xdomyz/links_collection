@@ -42,6 +42,13 @@ R
 
 `rstudio <https://www.rstudio.com/products/rstudio/download/#download>`_
 
+Databases
+------------
+
+`postgres, oracle xe <https://dwopt.readthedocs.io/en/stable/set_up.html#dwopt.make_test_tbl>`_
+
+`start stop oracle xe <https://docs.oracle.com/en/database/oracle/oracle-database/21/xeinw/starting-and-stopping-oracle-database-xe.html>`_
+
 linux
 -------
 
