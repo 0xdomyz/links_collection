@@ -35,6 +35,13 @@ Python
 
 `registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
 
+R
+-------
+
+`R <https://cloud.r-project.org/>`_
+
+`rstudio <https://www.rstudio.com/products/rstudio/download/#download>`_
+
 linux
 -------
 
