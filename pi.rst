@@ -8,6 +8,8 @@ pi
 
 `temp <https://www.cyberciti.biz/faq/linux-find-out-raspberry-pi-gpu-and-arm-cpu-temperature-command/>`_
 
+`sys info <https://itsbatch7.wordpress.com/2014/02/20/how-to-check-cpu-ram-and-hdd-info-on-raspberry-pi/>`_
+
 python packages
 -----------------
 
