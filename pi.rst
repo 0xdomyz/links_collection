@@ -26,6 +26,8 @@ os tute
 
 `factory reset <https://raspians.com/how-to-reset-raspberry-pi/>`_
 
+`sd card <https://www.pcguide.com/raspberry-pi/guide/best-sd-card/>`_
+
 `boot from usb <https://www.pragmaticlinux.com/2021/12/directly-boot-your-raspberry-pi-4-from-a-usb-drive/>`_
 
 `boot from usb config <https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/>`_
@@ -35,7 +37,6 @@ os tute
 `sata to usb <https://cplonline.com.au/startech-usb3s2sat3cb-usb-3-0-to-2-5-sata-hdd-adapter-cable.html>`_
 
 `ssd <https://cplonline.com.au/kingston-sa400s37-120g-as400ssd-2-5inch-7mm-sata3-ssd.html>`_
-
 
 SSH
 ------
