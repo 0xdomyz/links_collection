@@ -6,6 +6,8 @@ pi
 
 `imaging <https://www.raspberrypi.com/software/>`_
 
+`temp <https://www.cyberciti.biz/faq/linux-find-out-raspberry-pi-gpu-and-arm-cpu-temperature-command/>`_
+
 python packages
 -----------------
 
@@ -56,6 +58,11 @@ install python from source
 `install from zip <https://aruljohn.com/blog/python-raspberrypi/>`_
 
 `debian install <https://bobcares.com/blog/how-to-install-python-3-9-on-debian-10/>`_
+
+nano
+---------
+
+`exit <https://bitlaunch.io/blog/how-to-exit-nano/>`_
 
 Anti-virus
 ------------------
