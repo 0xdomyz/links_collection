@@ -33,6 +33,8 @@ sd card, ssd
 SSH
 ------
 
+`doco <https://www.raspberrypi.com/documentation/computers/remote-access.html#vnc>`_
+
 `tute <https://www.thesecmaster.com/five-easiest-ways-to-connect-raspberry-pi-remotely-in-2021/>`_
 
 `processor <https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/>`_
