@@ -1,8 +1,7 @@
 pi os
 ----------
-`doco <https://www.raspberrypi.com/documentation.html>`_
 
-`os doco <https://www.raspberrypi.com/documentation/computers/os.html>`_
+`doco <https://www.raspberrypi.com/documentation/computers/os.html>`_
 
 `upgrade os <https://raspberrytips.com/update-raspberry-pi-latest-version/>`_
 
