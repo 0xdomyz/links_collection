@@ -1,30 +1,26 @@
-pi
+pi os
 ----------
 `doco <https://www.raspberrypi.com/documentation.html>`_
 
 `os doco <https://www.raspberrypi.com/documentation/computers/os.html>`_
 
-`imaging <https://www.raspberrypi.com/software/>`_
-
-`temp <https://www.cyberciti.biz/faq/linux-find-out-raspberry-pi-gpu-and-arm-cpu-temperature-command/>`_
-
-`sys info <https://itsbatch7.wordpress.com/2014/02/20/how-to-check-cpu-ram-and-hdd-info-on-raspberry-pi/>`_
-
-python packages
------------------
-
-::
-
-    python3 -m pip install -U numpy
-    python3 -m pip install -U pandas
-    sudo apt-get install libatlas-base-dev
-
-os tute
---------
-
 `upgrade os <https://raspberrytips.com/update-raspberry-pi-latest-version/>`_
 
 `factory reset <https://raspians.com/how-to-reset-raspberry-pi/>`_
+
+::
+
+    cat /etc/os-release
+    vcgencmd measure_temp
+    free -m
+    df -h
+    cat /proc/cpuinfo
+    cat /proc/meminfo
+
+sd card, ssd
+-------------
+
+`imaging <https://www.raspberrypi.com/software/>`_
 
 `sd card <https://www.pcguide.com/raspberry-pi/guide/best-sd-card/>`_
 
@@ -33,10 +29,6 @@ os tute
 `boot from usb config <https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/>`_
 
 `fix boot from usb issue <https://www.pragmaticlinux.com/2021/03/fix-for-getting-your-ssd-working-via-usb-3-on-your-raspberry-pi/>`_
-
-`sata to usb <https://cplonline.com.au/startech-usb3s2sat3cb-usb-3-0-to-2-5-sata-hdd-adapter-cable.html>`_
-
-`ssd <https://cplonline.com.au/kingston-sa400s37-120g-as400ssd-2-5inch-7mm-sata3-ssd.html>`_
 
 SSH
 ------
@@ -62,6 +54,28 @@ install python from source
 
 `debian install <https://bobcares.com/blog/how-to-install-python-3-9-on-debian-10/>`_
 
+python packages
+-----------------
+
+::
+
+    python3 -m pip install -U numpy
+    python3 -m pip install -U pandas
+    sudo apt-get install libatlas-base-dev
+
+python projects
+-----------------
+
+`long running scripts <https://www.tomshardware.com/how-to/run-long-running-scripts-raspberry-pi>`_ 
+
+`physical project with python <https://realpython.com/python-raspberry-pi>`_ 
+
+
+terminal
+---------
+
+`start <https://magpi.raspberrypi.com/articles/terminal-help>`_
+
 nano
 ---------
 
@@ -71,12 +85,5 @@ Anti-virus
 ------------------
 
 `clamscan <https://pimylifeup.com/raspberry-pi-clamav/>`_
-
-python projects
------------------
-
-`long running scripts <https://www.tomshardware.com/how-to/run-long-running-scripts-raspberry-pi>`_ 
-
-`physical project with python <https://realpython.com/python-raspberry-pi>`_ 
 
 
