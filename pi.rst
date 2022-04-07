@@ -15,6 +15,8 @@ pi os
     df -h
     cat /proc/cpuinfo
     cat /proc/meminfo
+    apt -qq list awscli
+    sudo raspi-config
 
 sd card, ssd
 -------------
@@ -71,15 +73,10 @@ python projects
 
 `physical project with python <https://realpython.com/python-raspberry-pi>`_ 
 
-
 terminal
 ---------
 
 `start <https://magpi.raspberrypi.com/articles/terminal-help>`_
-
-::
-
-    apt -qq list awscli
 
 nano
 ---------
@@ -90,5 +87,3 @@ Anti-virus
 ------------------
 
 `clamscan <https://pimylifeup.com/raspberry-pi-clamav/>`_
-
-
