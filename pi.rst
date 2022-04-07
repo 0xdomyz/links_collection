@@ -76,6 +76,10 @@ terminal
 
 `start <https://magpi.raspberrypi.com/articles/terminal-help>`_
 
+::
+
+    apt -qq list awscli
+
 nano
 ---------
 
