@@ -53,26 +53,6 @@ linux
 -------
 
 `windows sub sys <https://windowsloop.com/install-linux-subsystem-windows-10>`_
-
-`shell tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
-
-::
-
-    pwd
-    ls
-    man
-    mkdir
-    touch
-    mv
-    cp
-    rm
-    cat
-    history
-    clear
-    ln
-    find
-    ps aux
-    df
     
 ZDLAEUKWYPN
 
