@@ -15,7 +15,6 @@ pi os
     df -h
     cat /proc/cpuinfo
     cat /proc/meminfo
-    apt -qq list awscli
     sudo raspi-config
 
 sd card, ssd
@@ -72,16 +71,6 @@ python projects
 `long running scripts <https://www.tomshardware.com/how-to/run-long-running-scripts-raspberry-pi>`_ 
 
 `physical project with python <https://realpython.com/python-raspberry-pi>`_ 
-
-terminal
----------
-
-`start <https://magpi.raspberrypi.com/articles/terminal-help>`_
-
-nano
----------
-
-`exit <https://bitlaunch.io/blog/how-to-exit-nano/>`_
 
 Anti-virus
 ------------------
