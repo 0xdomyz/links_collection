@@ -60,6 +60,11 @@ ZDLAEUKWYPN
 
 ctrl + alt + T
 
+nano
+---------
+
+`exit <https://bitlaunch.io/blog/how-to-exit-nano/>`_
+
 Other
 ------------------
 
