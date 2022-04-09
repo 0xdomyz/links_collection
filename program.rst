@@ -35,6 +35,8 @@ Python
 
 `registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
 
+`hitchhiker guide <https://docs.python-guide.org/#>`_
+
 R
 -------
 
@@ -60,15 +62,33 @@ ZDLAEUKWYPN
 
 ctrl + alt + T
 
-nano
----------
+Alt emails
+-----------------
 
-`exit <https://bitlaunch.io/blog/how-to-exit-nano/>`_
+`yahoo <https://login.yahoo.com>`_
+
+`gmail <https://mail.google.com/>`_
+
+`outlook <https://outlook.live.com/>`_
 
 Other
 ------------------
 
 `Password safe <https://www.pwsafe.org/>`_
+
+`Chrome extension <https://developer.chrome.com/docs/extensions/mv3/>`_
+
+`Chrome extension examples <https://github.com/GoogleChrome/chrome-extensions-samples>`_
+
+`Rapid api <https://rapidapi.com/hub>`_
+
+`exit nano <https://bitlaunch.io/blog/how-to-exit-nano/>`_
+
+`raidforums <https://raidforums.com/member.php>`_
+
+`virtual mach <https://windowsreport.com/virtual-machine-software/>`_
+
+`qtorrent <https://www.fosshub.com/qBittorrent.html>`_
 
 book
 ------
@@ -76,4 +96,4 @@ book
 `The Pragmatic Programmer: From Journeyman to Master <https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf>`_
 
 
-
+`The Structure and Interpretation of Computer Programs <https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start>`_
