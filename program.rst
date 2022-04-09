@@ -71,6 +71,16 @@ Alt emails
 
 `outlook <https://outlook.live.com/>`_
 
+`burner <https://burnermail.io/premium>`_
+
+`yandex <https://yandex.ru/>`_
+
+`proton <https://protonmail.com/>`_
+
+`qq <https://mail.qq.com/>`_
+
+`sina <https://mail.sina.com.cn/>`_
+
 Other
 ------------------
 
