@@ -77,8 +77,6 @@ Alt emails
 
 `proton <https://protonmail.com/>`_
 
-`qq <https://mail.qq.com/>`_
-
 `sina <https://mail.sina.com.cn/>`_
 
 Other
@@ -98,7 +96,7 @@ Other
 
 `virtual mach <https://windowsreport.com/virtual-machine-software/>`_
 
-`qtorrent <https://www.fosshub.com/qBittorrent.html>`_
+`qtorrent <https://www.qbittorrent.org/>`_
 
 book
 ------
