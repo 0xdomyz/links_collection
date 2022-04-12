@@ -3,6 +3,8 @@ Generic
 
 `Pattern Recognition and Machine Learning <https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf>`_
 
+`linear regression with r <http://www.utstat.toronto.edu/~brunner/books/LinearModelsWithR.pdf>`_
+
 Credit
 ---------
 
