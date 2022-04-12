@@ -82,6 +82,12 @@ Alt emails
 Other
 ------------------
 
+`yaml tute <https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html>`_
+
+`yaml org <https://yaml.org/>`_
+
+`toml <https://github.com/toml-lang/toml>`_
+
 `Password safe <https://www.pwsafe.org/>`_
 
 `Chrome extension <https://developer.chrome.com/docs/extensions/mv3/>`_
