@@ -83,15 +83,18 @@ Alt emails
 
 `sina <https://mail.sina.com.cn/>`_
 
-Other
-------------------
+configs
+-----------
+`toml <https://github.com/toml-lang/toml>`_
 
 `yaml tute <https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html>`_
 
 `yaml org <https://yaml.org/>`_
 
-`toml <https://github.com/toml-lang/toml>`_
+`pyyaml <https://pyyaml.org/wiki/PyYAMLDocumentation>`_
 
+Other
+------------------
 `Password safe <https://www.pwsafe.org/>`_
 
 `Chrome extension <https://developer.chrome.com/docs/extensions/mv3/>`_
