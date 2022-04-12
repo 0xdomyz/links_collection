@@ -62,6 +62,10 @@ ZDLAEUKWYPN
 
 ctrl + alt + T
 
+`background process <https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/amp/>`_
+
+`supervisor <http://supervisord.org/introduction.html#overview>`_
+
 Alt emails
 -----------------
 
@@ -103,6 +107,8 @@ Other
 `virtual mach <https://windowsreport.com/virtual-machine-software/>`_
 
 `qtorrent <https://www.qbittorrent.org/>`_
+
+
 
 book
 ------
