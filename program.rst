@@ -44,6 +44,8 @@ R
 
 `rstudio <https://www.rstudio.com/products/rstudio/download/#download>`_
 
+`rstudio cheatsheets <https://www.rstudio.com/resources/cheatsheets/>`_
+
 Databases
 ------------
 
