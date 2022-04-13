@@ -105,8 +105,6 @@ Other
 
 `exit nano <https://bitlaunch.io/blog/how-to-exit-nano/>`_
 
-`raidforums <https://raidforums.com/member.php>`_
-
 `virtual mach <https://windowsreport.com/virtual-machine-software/>`_
 
 `qtorrent <https://www.qbittorrent.org/>`_
