@@ -1,3 +1,15 @@
+
+book
+------
+
+`Pragmatic <https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf>`_
+
+`pragmatic2 <https://ebin.pub/the-pragmatic-programmer-your-journey-to-mastery-second-edition-20th-anniversary-edition-9780135957059-0135957052.html>`_
+
+`SICP <https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start>`_
+
+`pro git <https://git-scm.com/book/en/v2>`_
+
 git/hub
 -----------
 
@@ -6,52 +18,6 @@ git/hub
 `ssh <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_
 
 `git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
-
-vscode
-----------
-
-`windows <https://code.visualstudio.com/>`_
-
-`kill terminal <https://stackoverflow.com/questions/50569100/vscode-how-to-make-ctrlk-kill-till-the-end-of-line-in-the-terminal>`_
-
-.. code-block:: json
-
-    {
-        "editor.renderWhitespace": "all",
-        "editor.mouseWheelZoom": true,
-        "python.terminal.activateEnvironment": false,
-        "editor.rulers": [90],
-        "explorer.confirmDelete": false,
-        "terminal.explorerKind": "external",
-        "workbench.startupEditor": "none",
-        "terminal.integrated.defaultProfile.windows": "Command Prompt",
-        "terminal.integrated.profiles.windows": {
-            "PowerShell": {
-                "source": "PowerShell",
-                "icon": "terminal-powershell"
-            },
-            "Command Prompt": {
-                "path": [
-                    "${env:windir}\\Sysnative\\cmd.exe",
-                    "${env:windir}\\System32\\cmd.exe"
-                ],
-                "args": [],
-                "icon": "terminal-cmd"
-            },
-            "Git Bash": {
-                "source": "Git Bash"
-            }
-        },
-        "terminal.integrated.enableMultiLinePasteWarning": false
-    }
-
-    [
-        {
-            "key": "ctrl+f6",
-            "command": "workbench.action.terminal.kill",
-            "when": "terminalFocus"
-        }
-    ]
 
 vim
 ---------
@@ -138,6 +104,53 @@ configs
 
 `pyyaml <https://pyyaml.org/wiki/PyYAMLDocumentation>`_
 
+vscode
+----------
+
+`windows <https://code.visualstudio.com/>`_
+
+`kill terminal <https://stackoverflow.com/questions/50569100/vscode-how-to-make-ctrlk-kill-till-the-end-of-line-in-the-terminal>`_
+
+.. code-block:: json
+
+    {
+        "editor.renderWhitespace": "all",
+        "editor.mouseWheelZoom": true,
+        "python.terminal.activateEnvironment": false,
+        "editor.rulers": [90],
+        "explorer.confirmDelete": false,
+        "terminal.explorerKind": "external",
+        "workbench.startupEditor": "none",
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "terminal.integrated.profiles.windows": {
+            "PowerShell": {
+                "source": "PowerShell",
+                "icon": "terminal-powershell"
+            },
+            "Command Prompt": {
+                "path": [
+                    "${env:windir}\\Sysnative\\cmd.exe",
+                    "${env:windir}\\System32\\cmd.exe"
+                ],
+                "args": [],
+                "icon": "terminal-cmd"
+            },
+            "Git Bash": {
+                "source": "Git Bash"
+            }
+        },
+        "terminal.integrated.enableMultiLinePasteWarning": false
+    }
+
+    [
+        {
+            "key": "ctrl+f6",
+            "command": "workbench.action.terminal.kill",
+            "when": "terminalFocus"
+        }
+    ]
+
+
 Other
 ------------------
 `Password safe <https://www.pwsafe.org/>`_
@@ -154,15 +167,3 @@ Other
 
 `qtorrent <https://www.qbittorrent.org/>`_
 
-
-
-book
-------
-
-`Pragmatic <https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf>`_
-
-`pragmatic2 <https://ebin.pub/the-pragmatic-programmer-your-journey-to-mastery-second-edition-20th-anniversary-edition-9780135957059-0135957052.html>`_
-
-`SICP <https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start>`_
-
-`pro git <https://git-scm.com/book/en/v2>`_
