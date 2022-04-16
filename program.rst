@@ -69,9 +69,10 @@ linux
     
 `shell tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
 
-ZDLAEUKWYPN
+.. code-block:: console
 
-ctrl + alt + T
+    ZDLAEUKWYPN
+    ctrl + alt + T
 
 `background process <https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/amp/>`_
 
