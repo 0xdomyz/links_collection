@@ -37,6 +37,10 @@ Python
 
 `hitchhiker guide <https://docs.python-guide.org/#>`_
 
+`built in func <https://docs.python.org/3/library/functions.html>`_
+
+`built in types <https://docs.python.org/3/library/stdtypes.html>`_
+
 R
 -------
 
