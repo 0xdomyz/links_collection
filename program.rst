@@ -45,6 +45,14 @@ vscode
         "terminal.integrated.enableMultiLinePasteWarning": false
     }
 
+    [
+        {
+            "key": "ctrl+f6",
+            "command": "workbench.action.terminal.kill",
+            "when": "terminalFocus"
+        }
+    ]
+
 vim
 ---------
 
