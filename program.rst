@@ -14,6 +14,37 @@ vscode
 
 `kill terminal <https://stackoverflow.com/questions/50569100/vscode-how-to-make-ctrlk-kill-till-the-end-of-line-in-the-terminal>`_
 
+.. code-block:: json
+
+    {
+        "editor.renderWhitespace": "all",
+        "editor.mouseWheelZoom": true,
+        "python.terminal.activateEnvironment": false,
+        "editor.rulers": [90],
+        "explorer.confirmDelete": false,
+        "terminal.explorerKind": "external",
+        "workbench.startupEditor": "none",
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "terminal.integrated.profiles.windows": {
+            "PowerShell": {
+                "source": "PowerShell",
+                "icon": "terminal-powershell"
+            },
+            "Command Prompt": {
+                "path": [
+                    "${env:windir}\\Sysnative\\cmd.exe",
+                    "${env:windir}\\System32\\cmd.exe"
+                ],
+                "args": [],
+                "icon": "terminal-cmd"
+            },
+            "Git Bash": {
+                "source": "Git Bash"
+            }
+        },
+        "terminal.integrated.enableMultiLinePasteWarning": false
+    }
+
 vim
 ---------
 
