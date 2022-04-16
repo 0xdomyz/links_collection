@@ -150,14 +150,17 @@ vscode
         }
     ]
 
+Chrome extension
+-----------------
+
+`Doco <https://developer.chrome.com/docs/extensions/mv3/>`_
+
+`Examples <https://github.com/GoogleChrome/chrome-extensions-samples>`_
+
 
 Other
 ------------------
 `Password safe <https://www.pwsafe.org/>`_
-
-`Chrome extension <https://developer.chrome.com/docs/extensions/mv3/>`_
-
-`Chrome extension examples <https://github.com/GoogleChrome/chrome-extensions-samples>`_
 
 `Rapid api <https://rapidapi.com/hub>`_
 
