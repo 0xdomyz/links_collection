@@ -8,6 +8,8 @@ book
 
 `SICP <https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start>`_
 
+`lisp <https://norvig.com/lispy.html>`_
+
 `pro git <https://git-scm.com/book/en/v2>`_
 
 git/hub
