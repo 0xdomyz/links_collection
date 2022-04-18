@@ -71,7 +71,9 @@ linux
     
 `shell tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
 
-.. code-block:: console
+Shortcuts:
+
+.. code-block:: text
 
     ZDLAEUKWYPN
     ctrl + alt + T
@@ -83,9 +85,12 @@ linux
 windows
 ----------
 
-`computer startmenu <file:///%ProgramData%\Microsoft\Windows\Start Menu\Programs>`_
+Add program to startmenu:
 
-`user startmenu <file:///%AppData%\Microsoft\Windows\Start Menu\Programs>`_
+.. code-block:: text
+
+    %ProgramData%\Microsoft\Windows\Start Menu\Programs
+    %AppData%\Microsoft\Windows\Start Menu\Programs
 
 Alt emails
 -----------------
@@ -120,6 +125,8 @@ vscode
 `windows <https://code.visualstudio.com/>`_
 
 `kill terminal <https://stackoverflow.com/questions/50569100/vscode-how-to-make-ctrlk-kill-till-the-end-of-line-in-the-terminal>`_
+
+Settings and shortcuts:
 
 .. code-block:: json
 
