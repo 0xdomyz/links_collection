@@ -108,6 +108,8 @@ Python
 
 `built in types <https://docs.python.org/3/library/stdtypes.html>`_
 
+`pandas user guide <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
+
 R
 -------
 
