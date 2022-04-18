@@ -119,6 +119,11 @@ configs
 
 `pyyaml <https://pyyaml.org/wiki/PyYAMLDocumentation>`_
 
+regexp
+-----------
+
+`spec <https://www.regular-expressions.info/>`_
+
 vscode
 ----------
 
