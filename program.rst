@@ -83,9 +83,9 @@ linux
 windows
 ----------
 
-`computer startmenu <%ProgramData%\Microsoft\Windows\Start Menu\Programs>`_
+`computer startmenu <file:///%ProgramData%\Microsoft\Windows\Start Menu\Programs>`_
 
-`user startmenu <%AppData%\Microsoft\Windows\Start Menu\Programs>`_
+`user startmenu <file:///%AppData%\Microsoft\Windows\Start Menu\Programs>`_
 
 Alt emails
 -----------------
