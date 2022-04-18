@@ -12,6 +12,48 @@ book
 
 `pro git <https://git-scm.com/book/en/v2>`_
 
+Chrome extension
+-----------------
+
+`Doco <https://developer.chrome.com/docs/extensions/mv3/>`_
+
+`Examples <https://github.com/GoogleChrome/chrome-extensions-samples>`_
+
+configs
+-----------
+`toml <https://github.com/toml-lang/toml>`_
+
+`yaml tute <https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html>`_
+
+`yaml org <https://yaml.org/>`_
+
+`pyyaml <https://pyyaml.org/wiki/PyYAMLDocumentation>`_
+
+Databases
+------------
+
+`postgres, oracle xe <https://dwopt.readthedocs.io/en/stable/set_up.html#dwopt.make_test_tbl>`_
+
+`start stop oracle xe <https://docs.oracle.com/en/database/oracle/oracle-database/21/xeinw/starting-and-stopping-oracle-database-xe.html>`_
+
+
+Emails
+-----------------
+
+`yahoo <https://login.yahoo.com>`_
+
+`gmail <https://mail.google.com/>`_
+
+`outlook <https://outlook.live.com/>`_
+
+`burner <https://burnermail.io/premium>`_
+
+`yandex <https://yandex.ru/>`_
+
+`proton <https://protonmail.com/>`_
+
+`sina <https://mail.sina.com.cn/>`_
+
 git/hub
 -----------
 
@@ -21,19 +63,37 @@ git/hub
 
 `git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
 
-vim
----------
+linux
+-------
 
-`tute <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents>`_
+`windows sub sys <https://windowsloop.com/install-linux-subsystem-windows-10>`_
+    
+`shell tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
 
-`cheatsheet <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet>`_
+Shortcuts:
 
-`set up for python <https://realpython.com/vim-and-python-a-match-made-in-heaven/>`_
+.. code-block:: text
 
-visual studio
----------------
+    ZDLAEUKWYPN
+    ctrl + alt + T
 
-`c++ build tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_
+`background process <https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/amp/>`_
+
+`supervisor <http://supervisord.org/introduction.html#overview>`_
+
+Other
+------------------
+`Password safe <https://www.pwsafe.org/>`_
+
+`Rapid api <https://rapidapi.com/hub>`_
+
+`exit nano <https://bitlaunch.io/blog/how-to-exit-nano/>`_
+
+`virtual mach <https://windowsreport.com/virtual-machine-software/>`_
+
+`qtorrent <https://www.qbittorrent.org/>`_
+
+
 
 Python
 -----------------
@@ -57,72 +117,24 @@ R
 
 `rstudio cheatsheets <https://www.rstudio.com/resources/cheatsheets/>`_
 
-Databases
-------------
-
-`postgres, oracle xe <https://dwopt.readthedocs.io/en/stable/set_up.html#dwopt.make_test_tbl>`_
-
-`start stop oracle xe <https://docs.oracle.com/en/database/oracle/oracle-database/21/xeinw/starting-and-stopping-oracle-database-xe.html>`_
-
-linux
--------
-
-`windows sub sys <https://windowsloop.com/install-linux-subsystem-windows-10>`_
-    
-`shell tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
-
-Shortcuts:
-
-.. code-block:: text
-
-    ZDLAEUKWYPN
-    ctrl + alt + T
-
-`background process <https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/amp/>`_
-
-`supervisor <http://supervisord.org/introduction.html#overview>`_
-
-windows
-----------
-
-Add program to startmenu:
-
-.. code-block:: text
-
-    %ProgramData%\Microsoft\Windows\Start Menu\Programs
-    %AppData%\Microsoft\Windows\Start Menu\Programs
-
-Alt emails
------------------
-
-`yahoo <https://login.yahoo.com>`_
-
-`gmail <https://mail.google.com/>`_
-
-`outlook <https://outlook.live.com/>`_
-
-`burner <https://burnermail.io/premium>`_
-
-`yandex <https://yandex.ru/>`_
-
-`proton <https://protonmail.com/>`_
-
-`sina <https://mail.sina.com.cn/>`_
-
-configs
------------
-`toml <https://github.com/toml-lang/toml>`_
-
-`yaml tute <https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html>`_
-
-`yaml org <https://yaml.org/>`_
-
-`pyyaml <https://pyyaml.org/wiki/PyYAMLDocumentation>`_
-
 regexp
 -----------
 
 `spec <https://www.regular-expressions.info/>`_
+
+vim
+---------
+
+`tute <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents>`_
+
+`cheatsheet <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet>`_
+
+`set up for python <https://realpython.com/vim-and-python-a-match-made-in-heaven/>`_
+
+visual studio
+---------------
+
+`c++ build tools <https://visualstudio.microsoft.com/visual-cpp-build-tools/>`_
 
 vscode
 ----------
@@ -172,23 +184,15 @@ Settings and shortcuts:
         }
     ]
 
-Chrome extension
------------------
 
-`Doco <https://developer.chrome.com/docs/extensions/mv3/>`_
+windows
+----------
 
-`Examples <https://github.com/GoogleChrome/chrome-extensions-samples>`_
+Add program to startmenu:
 
+.. code-block:: text
 
-Other
-------------------
-`Password safe <https://www.pwsafe.org/>`_
+    %ProgramData%\Microsoft\Windows\Start Menu\Programs
+    %AppData%\Microsoft\Windows\Start Menu\Programs
 
-`Rapid api <https://rapidapi.com/hub>`_
-
-`exit nano <https://bitlaunch.io/blog/how-to-exit-nano/>`_
-
-`virtual mach <https://windowsreport.com/virtual-machine-software/>`_
-
-`qtorrent <https://www.qbittorrent.org/>`_
 
