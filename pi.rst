@@ -7,15 +7,23 @@ pi os
 
 `factory reset <https://raspians.com/how-to-reset-raspberry-pi/>`_
 
-::
+.. code-block:: console
 
+    echo check status
     cat /etc/os-release
     vcgencmd measure_temp
     free -m
     df -h
     cat /proc/cpuinfo
     cat /proc/meminfo
+    
+    echo config
     sudo raspi-config
+
+    echo update upgrade
+    sudo apt update
+    sudo apt upgrade
+    echo sudo apt full-upgrade
 
 sd card, ssd
 -------------
@@ -59,7 +67,7 @@ install python from source
 python packages
 -----------------
 
-::
+.. code-block:: console
 
     python3 -m pip install -U numpy
     python3 -m pip install -U pandas
@@ -76,3 +84,8 @@ Anti-virus
 ------------------
 
 `clamscan <https://pimylifeup.com/raspberry-pi-clamav/>`_
+
+.. code-block:: console
+
+    ls /var/log/clamav
+
