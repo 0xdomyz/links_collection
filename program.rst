@@ -12,6 +12,10 @@ book
 
 `lisp <https://norvig.com/lispy.html>`_
 
+`python cookbook <https://www.cdnfiles.website/books/2643-python-cookbook-3rd-edition-recipes-for-mastering-python-3-(www.FindPopularBooks.com).pdf>`_
+
+`r4ds <https://r4ds.had.co.nz>`_
+
 Chrome extension
 -----------------
 
@@ -110,6 +114,9 @@ Python
 
 `pandas user guide <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
 
+`cookbook <https://www.programmer-books.com/wp-content/uploads/2019/06/Modern-Python-Cookbook.pdf>`_
+
+
 R
 -------
 
@@ -118,6 +125,8 @@ R
 `rstudio <https://www.rstudio.com/products/rstudio/download/#download>`_
 
 `rstudio cheatsheets <https://www.rstudio.com/resources/cheatsheets/>`_
+
+`graphic cookbook <https://r-graphics.org/recipe-quick-line>`_
 
 regexp
 -----------
