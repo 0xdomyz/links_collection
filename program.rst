@@ -8,13 +8,7 @@ book
 
 `pragmatic2 <https://ebin.pub/the-pragmatic-programmer-your-journey-to-mastery-second-edition-20th-anniversary-edition-9780135957059-0135957052.html>`_
 
-`pro git <https://git-scm.com/book/en/v2>`_
-
 `lisp <https://norvig.com/lispy.html>`_
-
-`python cookbook <https://www.cdnfiles.website/books/2643-python-cookbook-3rd-edition-recipes-for-mastering-python-3-(www.FindPopularBooks.com).pdf>`_
-
-`r4ds <https://r4ds.had.co.nz>`_
 
 Chrome extension
 -----------------
@@ -67,6 +61,8 @@ git/hub
 
 `git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
 
+`pro git <https://git-scm.com/book/en/v2>`_
+
 linux
 -------
 
@@ -97,8 +93,6 @@ Other
 
 `qtorrent <https://www.qbittorrent.org/>`_
 
-
-
 Python
 -----------------
 
@@ -114,8 +108,9 @@ Python
 
 `pandas user guide <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
 
-`cookbook <https://www.programmer-books.com/wp-content/uploads/2019/06/Modern-Python-Cookbook.pdf>`_
+`cookbook <https://www.cdnfiles.website/books/2643-python-cookbook-3rd-edition-recipes-for-mastering-python-3-(www.FindPopularBooks.com).pdf>`_
 
+`advanced cookbook <https://www.programmer-books.com/wp-content/uploads/2019/06/Modern-Python-Cookbook.pdf>`_
 
 R
 -------
@@ -127,6 +122,8 @@ R
 `rstudio cheatsheets <https://www.rstudio.com/resources/cheatsheets/>`_
 
 `graphic cookbook <https://r-graphics.org/recipe-quick-line>`_
+
+`r4ds <https://r4ds.had.co.nz>`_
 
 regexp
 -----------
