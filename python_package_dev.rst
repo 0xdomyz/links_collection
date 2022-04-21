@@ -51,17 +51,22 @@ Documentation
 
 `Read the Docs tutorial <https://docs.readthedocs.io/en/stable/tutorial/>`_
 
-`example <https://github.com/0xdomyz/dwopt/blob/master/docs/source/conf.py>`_
-
 Quick set-up:
 
 .. code-block:: console
 
     mkdir docs
     sphinx-quickstart docs
+    y
+    {proj_name}
+    {author_name}
+    {version}
+    en
     echo .. include:: ../../README.rst > docs\source\index.rst
     docs\make html
     docs\build\html\index.html
+
+`config example <https://github.com/0xdomyz/dwopt/blob/master/docs/source/conf.py>`_
 
 Lint
 ======
