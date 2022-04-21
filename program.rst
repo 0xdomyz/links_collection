@@ -102,15 +102,21 @@ Python
 
 `hitchhiker guide <https://docs.python-guide.org/#>`_
 
+`cookbook <https://www.cdnfiles.website/books/2643-python-cookbook-3rd-edition-recipes-for-mastering-python-3-(www.FindPopularBooks.com).pdf>`_
+
+`advanced cookbook <https://www.programmer-books.com/wp-content/uploads/2019/06/Modern-Python-Cookbook.pdf>`_
+
 `built in func <https://docs.python.org/3/library/functions.html>`_
 
 `built in types <https://docs.python.org/3/library/stdtypes.html>`_
 
-`pandas user guide <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
+`pandas <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
 
-`cookbook <https://www.cdnfiles.website/books/2643-python-cookbook-3rd-edition-recipes-for-mastering-python-3-(www.FindPopularBooks.com).pdf>`_
+`seaborn <https://seaborn.pydata.org/index.html>`_
 
-`advanced cookbook <https://www.programmer-books.com/wp-content/uploads/2019/06/Modern-Python-Cookbook.pdf>`_
+`flask <https://flask.palletsprojects.com/en/2.1.x/>`_
+
+`django <https://www.djangoproject.com/>`_
 
 R
 -------
@@ -119,7 +125,9 @@ R
 
 `rstudio <https://www.rstudio.com/products/rstudio/download/#download>`_
 
-`rstudio cheatsheets <https://www.rstudio.com/resources/cheatsheets/>`_
+`tidyverse <https://www.tidyverse.org/>`_
+
+`cheatsheets <https://www.rstudio.com/resources/cheatsheets/>`_
 
 `graphic cookbook <https://r-graphics.org/recipe-quick-line>`_
 
