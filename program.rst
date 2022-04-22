@@ -12,6 +12,13 @@ book
 
 `lisp <https://norvig.com/lispy.html>`_
 
+C
+---
+
+`vscode tute mingw <https://code.visualstudio.com/docs/cpp/config-mingw>`_
+
+`vscode tute wsl <https://code.visualstudio.com/docs/cpp/config-wsl>`_
+
 Chrome extension
 -----------------
 
@@ -67,9 +74,7 @@ git/hub
 
 linux
 -------
-
-`windows sub sys <https://windowsloop.com/install-linux-subsystem-windows-10>`_
-    
+  
 `shell tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
 
 Shortcuts:
@@ -209,6 +214,10 @@ web
 
 windows
 ----------
+
+`Susbsys for linux <https://docs.microsoft.com/en-us/windows/wsl/install#install>`_
+
+`Choco <https://chocolatey.org/install#individual>`_
 
 Add program to startmenu:
 
