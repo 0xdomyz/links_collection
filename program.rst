@@ -202,6 +202,10 @@ Settings and shortcuts:
         }
     ]
 
+web
+----------
+
+`bootstrap <https://getbootstrap.com/>`_
 
 windows
 ----------
