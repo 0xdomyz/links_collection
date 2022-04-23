@@ -72,6 +72,8 @@ git/hub
 
 `pro git <https://git-scm.com/book/en/v2>`_
 
+`gitignore <https://github.com/github/gitignore>`_
+
 linux
 -------
   
