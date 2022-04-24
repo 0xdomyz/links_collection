@@ -125,7 +125,11 @@ Python
 
 `seaborn <https://seaborn.pydata.org/index.html>`_
 
+`interactive chart <https://sites.northwestern.edu/researchcomputing/2022/02/03/what-is-the-best-interactive-plotting-package-in-python/>`_
+
 `flask <https://flask.palletsprojects.com/en/2.1.x/>`_
+
+`flask examples <https://www.fullstackpython.com/flask-code-examples.html>`_
 
 `django <https://www.djangoproject.com/>`_
 
@@ -221,6 +225,8 @@ web
 ----------
 
 `bootstrap <https://getbootstrap.com/>`_
+
+`react <https://create-react-app.dev/>`_
 
 windows
 ----------
