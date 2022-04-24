@@ -5,6 +5,10 @@ Generic
 
 `linear regression with r <http://www.utstat.toronto.edu/~brunner/books/LinearModelsWithR.pdf>`_
 
+`intro 2 stat learn with r <https://hastie.su.domains/ISLR2/ISLRv2_website.pdf>`_
+
+`deeep <https://www.deeplearningbook.org/>`_
+
 Credit
 ---------
 
