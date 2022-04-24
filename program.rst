@@ -144,6 +144,12 @@ R
 
 `r4ds <https://r4ds.had.co.nz>`_
 
+`make package <https://r-pkgs.org/>`_
+
+`pkg tute <https://pkgdown.r-lib.org/>`_
+
+`pkg down <http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf>`_
+
 regexp
 -----------
 
