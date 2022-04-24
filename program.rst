@@ -4,13 +4,15 @@ book
 
 `SICP <https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start>`_
 
+`lisp <https://norvig.com/lispy.html>`_
+
 `clean <https://github.com/sdcuike/Clean-Code-Collection-Books/blob/master/Clean%20Architecture%20A%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design.pdf>`_
 
 `pragmatic2 <https://ebin.pub/the-pragmatic-programmer-your-journey-to-mastery-second-edition-20th-anniversary-edition-9780135957059-0135957052.html>`_
 
 `cs50 <https://cs50.harvard.edu>`_
 
-`lisp <https://norvig.com/lispy.html>`_
+`cs50 header <https://cs50.readthedocs.io/libraries/cs50/c/>`_
 
 C
 ---
