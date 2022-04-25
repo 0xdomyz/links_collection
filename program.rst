@@ -88,6 +88,8 @@ Shortcuts:
     ZDLAEUKWYPN
     ctrl + alt + T
 
+`environment varible <https://askubuntu.com/questions/58814/how-do-i-add-environment-variables>`_
+
 `background process <https://www.howtogeek.com/440848/how-to-run-and-control-background-processes-on-linux/amp/>`_
 
 `supervisor <http://supervisord.org/introduction.html#overview>`_
