@@ -12,8 +12,6 @@ book
 
 `cs50 <https://cs50.harvard.edu>`_
 
-`cs50 header <https://cs50.readthedocs.io/libraries/cs50/c/>`_
-
 C
 ---
 
