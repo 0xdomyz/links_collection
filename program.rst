@@ -142,6 +142,8 @@ R
 
 `tidyverse <https://www.tidyverse.org/>`_
 
+`dplyr <https://dplyr.tidyverse.org/articles/index.html>`_
+
 `cheatsheets <https://www.rstudio.com/resources/cheatsheets/>`_
 
 `graphic cookbook <https://r-graphics.org/recipe-quick-line>`_
