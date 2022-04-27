@@ -224,6 +224,8 @@ Settings and shortcuts:
 web
 ----------
 
+`mdn <https://developer.mozilla.org/en-US/>`_
+
 `bootstrap <https://getbootstrap.com/>`_
 
 `react <https://create-react-app.dev/>`_
