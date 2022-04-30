@@ -161,6 +161,11 @@ regexp
 
 `spec <https://www.regular-expressions.info/>`_
 
+shell
+-------
+
+`shell collection <https://github.com/0xdomyz/shell_collection>`_
+
 vim
 ---------
 
