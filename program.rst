@@ -10,7 +10,7 @@ book
 
 `pragmatic2 <https://ebin.pub/the-pragmatic-programmer-your-journey-to-mastery-second-edition-20th-anniversary-edition-9780135957059-0135957052.html>`_
 
-`cs50 <https://cs50.harvard.edu>`_
+`cs50 <https://github.com/0xdomyz/cs50>`_
 
 C
 ---
