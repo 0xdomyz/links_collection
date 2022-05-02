@@ -83,6 +83,8 @@ julia
 
 `course <https://juliaacademy.com/courses/intro-to-julia>`_
 
+`doco <https://docs.julialang.org/en/v1/>`_
+
 linux
 -------
   
