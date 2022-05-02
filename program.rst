@@ -74,6 +74,11 @@ git/hub
 
 `gitignore <https://github.com/github/gitignore>`_
 
+julia
+--------
+
+`install <https://julialang.org/downloads/>`_
+
 linux
 -------
   
