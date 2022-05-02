@@ -51,6 +51,10 @@ Documentation
 
 `Read the Docs tutorial <https://docs.readthedocs.io/en/stable/tutorial/>`_
 
+`pyment <https://github.com/dadadel/pyment>`_
+
+`config example <https://github.com/0xdomyz/dwopt/blob/master/docs/source/conf.py>`_
+
 Quick set-up:
 
 .. code-block:: console
@@ -66,7 +70,34 @@ Quick set-up:
     docs\make html
     docs\build\html\index.html
 
-`config example <https://github.com/0xdomyz/dwopt/blob/master/docs/source/conf.py>`_
+Quick API:
+
+* docstring:
+
+  .. code-block:: console
+
+      pyment -o numpydoc -w myfile.py
+
+* In config:
+
+  .. code-block:: python
+  
+      sys.path.insert(0, os.path.abspath("{path to module root e.g. ../../src}"))
+      extensions = [
+          "sphinx.ext.autodoc",
+          "sphinx.ext.napoleon",
+          "sphinx.ext.viewcode",
+          "sphinx.ext.autosummary",
+      ]
+
+* In README.rst:
+
+  .. code-block:: text
+
+      .. automodule:: mymodule
+        :members:
+        :undoc-members:
+        :private-members:
 
 Lint
 ======
