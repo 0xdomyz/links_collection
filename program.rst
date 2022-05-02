@@ -79,6 +79,10 @@ julia
 
 `install <https://julialang.org/downloads/>`_
 
+`IJulia <https://github.com/JuliaLang/IJulia.jl#quick-start>`_
+
+`course <https://juliaacademy.com/courses/intro-to-julia>`_
+
 linux
 -------
   
