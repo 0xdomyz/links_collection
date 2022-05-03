@@ -26,6 +26,13 @@ Chrome extension
 
 `Examples <https://github.com/GoogleChrome/chrome-extensions-samples>`_
 
+Cloud
+--------
+
+`example <https://gp2mv3.com/python-script-cloud-every-minute-for-free-with-aws-lambda/>`_
+
+`docker <https://hub.docker.com/>`_
+
 configs
 -----------
 `toml <https://github.com/toml-lang/toml>`_
@@ -105,6 +112,7 @@ Shortcuts:
 
 Other
 ------------------
+
 `Password safe <https://www.pwsafe.org/>`_
 
 `Rapid api <https://rapidapi.com/hub>`_
@@ -147,6 +155,8 @@ Python
 `flask examples <https://www.fullstackpython.com/flask-code-examples.html>`_
 
 `django <https://www.djangoproject.com/>`_
+
+`tk example <http://tkdocs.com/tutorial/firstexample.html>`_
 
 R
 -------
