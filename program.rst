@@ -134,6 +134,10 @@ Python
 
 `pandas <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
 
+`sci-kit learn <https://scikit-learn.org/stable/getting_started.html#>`_
+
+`torch tute <https://pytorch.org/tutorials/beginner/basics/intro.html>`_
+
 `seaborn <https://seaborn.pydata.org/index.html>`_
 
 `interactive chart <https://sites.northwestern.edu/researchcomputing/2022/02/03/what-is-the-best-interactive-plotting-package-in-python/>`_
