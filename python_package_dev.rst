@@ -90,6 +90,9 @@ Quick API:
           "sphinx.ext.autosummary",
       ]
       html_theme = "sphinx_rtd_theme"
+      #templates_path
+      #exclude_patterns
+      #html_static_path
 
 * In README.rst:
 
