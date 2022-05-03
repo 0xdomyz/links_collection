@@ -89,6 +89,7 @@ Quick API:
           "sphinx.ext.viewcode",
           "sphinx.ext.autosummary",
       ]
+      html_theme = "sphinx_rtd_theme"
 
 * In README.rst:
 
