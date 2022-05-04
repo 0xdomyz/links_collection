@@ -154,7 +154,7 @@ Python
 
 `flask examples <https://www.fullstackpython.com/flask-code-examples.html>`_
 
-`django <https://www.djangoproject.com/>`_
+`django <https://docs.djangoproject.com/en/4.0/>`_
 
 `tk example <http://tkdocs.com/tutorial/firstexample.html>`_
 
