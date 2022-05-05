@@ -158,6 +158,8 @@ Python
 
 `tk example <http://tkdocs.com/tutorial/firstexample.html>`_
 
+`scrap <https://www.youtube.com/watch?v=G7s0eGOaRPE>`_
+
 R
 -------
 
