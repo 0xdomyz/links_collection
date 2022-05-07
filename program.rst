@@ -264,6 +264,10 @@ web
 
 `react <https://create-react-app.dev/>`_
 
+`echarts <https://echarts.apache.org/en/index.html>`_
+
+`chartjs <https://www.chartjs.org/>`_
+
 windows
 ----------
 
