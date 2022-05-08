@@ -1,9 +1,6 @@
 Collection of links
 =======================================
 
-Table of contents
--------------------
-
 `Programming <https://github.com/0xdomyz/links_collection/blob/master/program.rst>`_
 
 `Modelling <https://github.com/0xdomyz/links_collection/blob/master/model.rst>`_
