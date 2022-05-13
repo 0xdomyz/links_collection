@@ -275,6 +275,8 @@ windows
 
 `Choco <https://chocolatey.org/install#individual>`_
 
+`libre office <https://www.libreoffice.org/download/download/>`_
+
 Add program to startmenu:
 
 .. code-block:: text
