@@ -126,6 +126,8 @@ Other
 Python
 -----------------
 
+`cython <https://cython.readthedocs.io/en/latest/index.html>`_
+
 `windows installation <https://www.python.org/downloads/windows/>`_
 
 `registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
@@ -182,6 +184,11 @@ R
 `pkg tute <https://pkgdown.r-lib.org/>`_
 
 `pkg down <http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf>`_
+
+Rust
+----------
+
+`rust book <https://doc.rust-lang.org/book/ch00-00-introduction.html>`_
 
 regexp
 -----------
