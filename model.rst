@@ -7,6 +7,8 @@ Generic
 
 `intro 2 stat learn with r <https://hastie.su.domains/ISLR2/ISLRv2_website.pdf>`_
 
+`python for finance <https://palmislandtraders.com/econ136/mpff.pdf>`_
+
 `deeep <https://www.deeplearningbook.org/>`_
 
 Credit
@@ -26,3 +28,18 @@ TS
 `Forecasting: Principles and Practice <https://otexts.com/fpp3/>`_
 
 `Macroeconomic default modelling and stress testing <https://www.bis.org/bcbs/events/rtf08simonsrolwes.pdf>`_
+
+Market
+--------
+
+`qt <https://au1lib.org/book/16970620/d125eb>`_
+
+`adv fin mach <https://au1lib.org/book/3433999/6ae65e>`_
+
+`mach learn <https://au1lib.org/book/5690419/79c063>`_
+
+`alpha <https://au1lib.org/book/5284205/b542ee>`_
+
+
+
+
