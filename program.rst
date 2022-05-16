@@ -154,6 +154,10 @@ Python
 
 `dashboard comp <https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila>`_
 
+`dash <https://dash.plotly.com/>`_
+
+`streamlit <https://docs.streamlit.io/>`_
+
 `flask <https://flask.palletsprojects.com/en/2.1.x/>`_
 
 `flask examples <https://www.fullstackpython.com/flask-code-examples.html>`_
