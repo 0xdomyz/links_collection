@@ -152,6 +152,8 @@ Python
 
 `interactive chart <https://sites.northwestern.edu/researchcomputing/2022/02/03/what-is-the-best-interactive-plotting-package-in-python/>`_
 
+`dashboard comp <https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila>`_
+
 `flask <https://flask.palletsprojects.com/en/2.1.x/>`_
 
 `flask examples <https://www.fullstackpython.com/flask-code-examples.html>`_
