@@ -78,6 +78,8 @@ Quick API:
 
       pyment -o numpydoc -w myfile.py
 
+* Title: "= - ` : ' " ~ ^ _ * + # < >"
+
 * numpy style::
 
     def func(arg1, arg2):
