@@ -21,6 +21,8 @@ Python
 
 `sci-kit learn <https://scikit-learn.org/stable/getting_started.html#>`_
 
+`statsmodel <https://www.statsmodels.org/stable/index.html>`_
+
 `torch tute <https://pytorch.org/tutorials/beginner/basics/intro.html>`_
 
 `seaborn <https://seaborn.pydata.org/index.html>`_
