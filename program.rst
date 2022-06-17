@@ -148,6 +148,8 @@ R
 
 `pkg down <http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf>`_
 
+`reg weigths <https://alvaroaguado3.github.io/forcing-regression-coefficients-in-r-part-i/>`_
+
 Rust
 ----------
 
