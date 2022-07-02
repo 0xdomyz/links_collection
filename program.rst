@@ -249,6 +249,8 @@ windows
 
 `libre office <https://www.libreoffice.org/download/download/>`_
 
+`windows off screen <https://www.alphr.com/find-recover-off-screen-window-windows-10/>`_
+
 Add program to startmenu:
 
 .. code-block:: text
