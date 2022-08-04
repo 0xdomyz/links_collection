@@ -142,11 +142,11 @@ R
 
 `r4ds <https://r4ds.had.co.nz>`_
 
-`make package <https://r-pkgs.org/>`_
+`package book <https://r-pkgs.org/>`_
 
-`pkg tute <https://pkgdown.r-lib.org/>`_
+`pkg tute <http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf>`_
 
-`pkg down <http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf>`_
+`pkg website <https://pkgdown.r-lib.org/>`_
 
 `reg weigths <https://alvaroaguado3.github.io/forcing-regression-coefficients-in-r-part-i/>`_
 
