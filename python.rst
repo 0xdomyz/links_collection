@@ -17,6 +17,14 @@ Python
 
 `debugger <https://docs.python.org/3/library/pdb.html>`_
 
+interactive debug::
+
+    breakpoint() 
+    # exit()
+    # python
+    # func()
+    # interact
+
 `django <https://docs.djangoproject.com/en/4.0/>`_
 
 `email <https://github.com/jhnwr/python-email>`_
