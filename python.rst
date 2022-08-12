@@ -15,6 +15,8 @@ Python
 
 `click <https://click.palletsprojects.com/en/8.1.x/>`_
 
+`debugger <https://docs.python.org/3/library/pdb.html>`_
+
 `django <https://docs.djangoproject.com/en/4.0/>`_
 
 `email <https://github.com/jhnwr/python-email>`_
