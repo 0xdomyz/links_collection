@@ -57,3 +57,5 @@ interactive debug::
 
 `windows installation <https://www.python.org/downloads/windows/>`_
 
+`wsl installtion <https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80>`_
+
