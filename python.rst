@@ -68,9 +68,15 @@ interactive debug::
     code .bashrc
     export PATH=”$PATH:/home/your_linux_username/.local/bin”
 
+    
     sudo apt install python3.9 python3-pip       
+    sudo apt install postgresql
+    
     python3.9 -m pip install numpy
     python3.9 -m pip install pandas
+    python3.9 -m pip install sklearn
+    python3.9 -m pip install seaborn
+    
     python3.9 -m pip install sqlalchemy
     python3.9 -m pip install psycopg2-binary
-    python3.9 -m pip install sklearn
+    
