@@ -58,28 +58,4 @@ interactive debug::
 `windows installation <https://www.python.org/downloads/windows/>`_
 
 `wsl installtion <https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80>`_
-
-.. code-block:: console
-
-    #move files
-    cp /mnt/c/Users/user/{file} ~/{file}
-
-    #add python path to .bashrc
-    code .bashrc
-    export PATH=”$PATH:/home/your_linux_username/.local/bin”
-
-    
-    sudo apt install python3.9 python3-pip       
-    sudo apt install python3-dev python3.9-dev
-    
-    python3.9 -m pip install numpy
-    python3.9 -m pip install pandas
-    python3.9 -m pip install sklearn
-    python3.9 -m pip install seaborn
-    
-    python3.9 -m pip install sqlalchemy
-    
-    sudo apt install postgresql
-    sudo apt install libpq-dev
-    python3.9 -m pip install psycopg2-binary
     
