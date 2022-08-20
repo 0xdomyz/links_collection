@@ -245,6 +245,32 @@ windows
 
 `Susbsys for linux <https://docs.microsoft.com/en-us/windows/wsl/install#install>`_
 
+wsl python installation:
+
+.. code-block:: console
+
+    #move files
+    cp /mnt/c/Users/user/{file} ~/{file}
+
+    #add python path to .bashrc
+    code .bashrc
+    export PATH=”$PATH:/home/your_linux_username/.local/bin”
+
+    
+    sudo apt install python3.9 python3-pip       
+    sudo apt install python3-dev python3.9-dev
+    
+    python3.9 -m pip install numpy
+    python3.9 -m pip install pandas
+    python3.9 -m pip install sklearn
+    python3.9 -m pip install seaborn
+    
+    python3.9 -m pip install sqlalchemy
+    
+    sudo apt install postgresql
+    sudo apt install libpq-dev
+    python3.9 -m pip install psycopg2-binary
+
 `Choco <https://chocolatey.org/install#individual>`_
 
 `libre office <https://www.libreoffice.org/download/download/>`_
