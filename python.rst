@@ -70,7 +70,7 @@ interactive debug::
 
     
     sudo apt install python3.9 python3-pip       
-    sudo apt install postgresql
+    sudo apt install python3-dev python3.9-dev
     
     python3.9 -m pip install numpy
     python3.9 -m pip install pandas
@@ -78,5 +78,8 @@ interactive debug::
     python3.9 -m pip install seaborn
     
     python3.9 -m pip install sqlalchemy
+    
+    sudo apt install postgresql
+    sudo apt install libpq-dev
     python3.9 -m pip install psycopg2-binary
     
