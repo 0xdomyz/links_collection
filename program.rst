@@ -293,11 +293,12 @@ Access wsl from cmd:
     wsl
     cd ~
 
-Access file explorer from wsl:
+Access file explorer, edge from wsl:
 
 .. code-block:: text
 
     explorer.exe .
+    wslview index.html
 
 Move files:
 
