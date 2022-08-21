@@ -313,22 +313,33 @@ wsl python installation:
     sudo apt install python3.9 python3-pip       
     sudo apt install python3-dev python3.9-dev
 
+    #remap python symlink
+    cd /usr/bin/
+    sudo unlink python
+    sudo unlink python3
+    sudo ln -s python3.9 /usr/bin/python
+    sudo ln -s python3.9 /usr/bin/python3
+
+    #check pip
+    cd /usr/bin/
+    code pip
+
     #add python path to .bashrc
     code .bashrc
     export PATH=”$PATH:/home/{your_linux_username}/.local/bin”
     
     python3.9 -m pip install -U pip
 
-    python3.9 -m pip install numpy
-    python3.9 -m pip install pandas
-    python3.9 -m pip install sklearn
-    python3.9 -m pip install seaborn
+    pip install numpy
+    pip install pandas
+    pip install sklearn
+    pip install seaborn
     
-    python3.9 -m pip install sqlalchemy
+    pip install sqlalchemy
     
     sudo apt install postgresql
     sudo apt install libpq-dev
-    python3.9 -m pip install psycopg2
+    pip install psycopg2
 
 `Choco <https://chocolatey.org/install#individual>`_
 
