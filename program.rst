@@ -46,10 +46,33 @@ configs
 Databases
 ------------
 
-`postgres, oracle xe <https://dwopt.readthedocs.io/en/stable/set_up.html#dwopt.make_test_tbl>`_
+`windows postgres, oracle xe <https://dwopt.readthedocs.io/en/stable/set_up.html#dwopt.make_test_tbl>`_
 
 `start stop oracle xe <https://docs.oracle.com/en/database/oracle/oracle-database/21/xeinw/starting-and-stopping-oracle-database-xe.html>`_
 
+postgre on raspbery pi:
+
+.. code-block:: console
+
+    sudo apt install postgresql
+
+    sudo nano /etc/postgresql/13/main/pg_hba.conf
+    # change "local" is for Unix domain socket connections only method to md5
+
+    pg_ctlcluster 13 main start
+
+postgre on wsl:
+
+.. code-block:: console
+
+    sudo apt install postgresql
+
+    sudo service postgresql restart
+
+    sudo nano /etc/postgresql/12/main/pg_hba.conf
+    # change "local" is for Unix domain socket connections only method to md5
+
+    sudo pg_ctlcluster 12 main start
 
 Emails
 -----------------
@@ -186,7 +209,7 @@ vscode
 
 `kill terminal <https://stackoverflow.com/questions/50569100/vscode-how-to-make-ctrlk-kill-till-the-end-of-line-in-the-terminal>`_
 
-Settings and shortcuts:
+vscode user setting:
 
 .. code-block:: json
 
@@ -219,10 +242,22 @@ Settings and shortcuts:
         "terminal.integrated.enableMultiLinePasteWarning": false
     }
 
+
+vscode shortcut::
+
+.. code-block:: json
+
+    // Place your key bindings in this file to override the defaults
     [
         {
             "key": "ctrl+f6",
             "command": "workbench.action.terminal.kill",
+            "when": "terminalFocus"
+        },
+        
+        {
+            "key": "ctrl+f7",
+            "command": "workbench.action.toggleMaximizedPanel",
             "when": "terminalFocus"
         }
     ]
@@ -245,21 +280,44 @@ windows
 
 `Susbsys for linux <https://docs.microsoft.com/en-us/windows/wsl/install#install>`_
 
+Access from files explorer:
+
+.. code-block:: text
+    \\wsl$
+    \\wsl$\Ubuntu\home\user
+
+Access wsl from cmd:
+
+.. code-block:: text
+
+    wsl
+    cd ~
+
+Access file explorer from wsl:
+
+.. code-block:: text
+
+    explorer.exe .
+
+Move files:
+
+.. code-block:: console
+
+    cp /mnt/c/Users/user/{file} ~/{file}
+
 wsl python installation:
 
 .. code-block:: console
 
-    #move files
-    cp /mnt/c/Users/user/{file} ~/{file}
+    sudo apt install python3.9 python3-pip       
+    sudo apt install python3-dev python3.9-dev
 
     #add python path to .bashrc
     code .bashrc
-    export PATH=”$PATH:/home/your_linux_username/.local/bin”
+    export PATH=”$PATH:/home/{your_linux_username}/.local/bin”
+    
+    python3.9 -m pip install -U pip
 
-    
-    sudo apt install python3.9 python3-pip       
-    sudo apt install python3-dev python3.9-dev
-    
     python3.9 -m pip install numpy
     python3.9 -m pip install pandas
     python3.9 -m pip install sklearn
@@ -269,7 +327,7 @@ wsl python installation:
     
     sudo apt install postgresql
     sudo apt install libpq-dev
-    python3.9 -m pip install psycopg2-binary
+    python3.9 -m pip install psycopg2
 
 `Choco <https://chocolatey.org/install#individual>`_
 

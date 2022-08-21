@@ -27,6 +27,12 @@ Vitual Environment
 
 `Real python tute <https://realpython.com/python-virtual-environments-a-primer/>`_
 
+linux:
+
+.. code-block:: console
+
+    sudo apt-get install python3-venv
+
 dependency management
 ===========================
 
@@ -56,6 +62,11 @@ Documentation
 `config example <https://github.com/0xdomyz/dwopt/blob/master/docs/source/conf.py>`_
 
 Quick set-up:
+
+.. code-block:: console
+
+    pip install sphinx
+    pip install sphinx_rtd_theme
 
 .. code-block:: console
 
