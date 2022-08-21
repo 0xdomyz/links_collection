@@ -243,7 +243,7 @@ vscode user setting:
     }
 
 
-vscode shortcut::
+vscode shortcut:
 
 .. code-block:: json
 
