@@ -262,6 +262,8 @@ vscode shortcut:
         }
     ]
 
+`remote-ssh <https://code.visualstudio.com/docs/remote/ssh>`_
+
 web
 ----------
 
