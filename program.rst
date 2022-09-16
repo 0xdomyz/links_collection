@@ -106,6 +106,11 @@ git/hub
 
 `gitignore <https://github.com/github/gitignore>`_
 
+.. code-block:: console
+
+    git clean -n
+    git clean -f
+
 julia
 --------
 
