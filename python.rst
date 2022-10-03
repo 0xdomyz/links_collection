@@ -51,6 +51,8 @@ interactive debug::
 
 `statsmodel <https://www.statsmodels.org/stable/index.html>`_
 
+`strftime.org <https://strftime.org/>`_
+
 `tk example <http://tkdocs.com/tutorial/firstexample.html>`_
 
 `torch tute <https://pytorch.org/tutorials/beginner/basics/intro.html>`_
