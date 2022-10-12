@@ -124,7 +124,9 @@ julia
 
 linux
 -------
-  
+
+`crontab <https://www.adminschoice.com/crontab-quick-reference>`_
+
 `shell tute <https://www.youtube.com/watch?v=BMGixkvJ-6w&t=621s&ab_channel=SkillsFactory>`_
 
 Shortcuts:
