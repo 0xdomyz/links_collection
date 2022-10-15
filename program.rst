@@ -272,8 +272,17 @@ vscode workspace setting:
 .. code-block:: json
 
     {
+        "[python]": {
+            "editor.codeActionsOnSave": {
+                "source.organizeImports": true
+            }
+        },
         "editor.formatOnSave": true,
-        "python.formatting.provider": "black"
+        "python.formatting.provider": "black",
+        "python.sortImports.args": [
+            "--profile",
+            "black"
+        ],
     }
 
 
