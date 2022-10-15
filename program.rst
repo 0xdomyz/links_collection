@@ -339,12 +339,16 @@ wsl python installation:
     sudo apt install python3.9 python3-pip       
     sudo apt install python3-dev python3.9-dev
 
-    #remap python symlink
+    #remap python symlink, this breaks apt-get
     cd /usr/bin/
     sudo unlink python
     sudo unlink python3
     sudo ln -s python3.9 /usr/bin/python
     sudo ln -s python3.9 /usr/bin/python3
+
+    #update-alternatives
+
+    #map alt python to path
 
     #check pip
     cd /usr/bin/
