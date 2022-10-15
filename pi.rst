@@ -73,6 +73,13 @@ python packages
     python3 -m pip install -U pandas
     sudo apt-get install libatlas-base-dev
 
+Preload libatomic::
+
+    nano ~/.bashrc
+    #add to end of file
+    export LD_PRELOAD=/usr/lib/arm-linux-gnueabihf/libatomic.so.1.2.0
+
+
 python projects
 -----------------
 
