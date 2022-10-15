@@ -249,12 +249,10 @@ vscode user setting:
         "terminal.integrated.enableMultiLinePasteWarning": false
     }
 
-
 vscode shortcut:
 
 .. code-block:: json
 
-    // Place your key bindings in this file to override the defaults
     [
         {
             "key": "ctrl+f6",
@@ -268,6 +266,16 @@ vscode shortcut:
             "when": "terminalFocus"
         }
     ]
+
+vscode workspace setting:
+
+.. code-block:: json
+
+    {
+        "editor.formatOnSave": true,
+        "python.formatting.provider": "black"
+    }
+
 
 `remote-ssh <https://code.visualstudio.com/docs/remote/ssh>`_
 
