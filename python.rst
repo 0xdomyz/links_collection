@@ -41,6 +41,8 @@ interactive debug::
 
 `pandas <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
 
+`pandas cython <https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html>`_
+
 `registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
 
 `scrap <https://www.youtube.com/watch?v=G7s0eGOaRPE>`_
