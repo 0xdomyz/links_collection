@@ -41,7 +41,7 @@ interactive debug::
 
 `pandas <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
 
-`pandas cython <https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html>`_
+`pandas enhance preformance <https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html>`_
 
 `registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
 
