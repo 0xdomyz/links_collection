@@ -37,6 +37,8 @@ interactive debug::
 
 `interactive chart <https://sites.northwestern.edu/researchcomputing/2022/02/03/what-is-the-best-interactive-plotting-package-in-python/>`_
 
+`ipython <https://ipython.readthedocs.io/en/stable/index.html>`_
+
 `jinja2 syntax doco <https://jinja.palletsprojects.com/en/3.1.x/templates/>`_
 
 `pandas <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
