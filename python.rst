@@ -1,13 +1,21 @@
 Python
 -----------------
 
+`asyncio <https://docs.python.org/3/library/asyncio.html>`_
+
+`asyncio tute <https://realpython.com/async-io-python/>`_
+
 `advanced cookbook <https://www.programmer-books.com/wp-content/uploads/2019/06/Modern-Python-Cookbook.pdf>`_
 
 `argparser <https://docs.python.org/3/howto/argparse.html#id1>`_
 
+`boto3 <https://realpython.com/python-boto3-aws-s3/>`_
+
 `built in func <https://docs.python.org/3/library/functions.html>`_
 
 `built in types <https://docs.python.org/3/library/stdtypes.html>`_
+
+`concurrency tute <https://realpython.com/python-concurrency/>`_
 
 `cookbook <https://www.cdnfiles.website/books/2643-python-cookbook-3rd-edition-recipes-for-mastering-python-3-(www.FindPopularBooks.com).pdf>`_
 
@@ -57,9 +65,22 @@ interactive debug::
 
 `strftime.org <https://strftime.org/>`_
 
+`threading tute <https://www.pythontutorial.net/python-concurrency/python-threading/>`_
+
 `tk example <http://tkdocs.com/tutorial/firstexample.html>`_
 
 `torch tute <https://pytorch.org/tutorials/beginner/basics/intro.html>`_
+
+websocket
+^^^^^^^^^^^^^^
+
+`socket programming <https://realpython.com/python-sockets/#reference>`_
+
+`websockets <https://websockets.readthedocs.io/en/stable/index.html>`_
+
+`websocket-client <https://websocket-client.readthedocs.io/en/latest/index.html>`_
+
+
 
 `windows installation <https://www.python.org/downloads/windows/>`_
 
