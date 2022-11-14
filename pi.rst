@@ -49,6 +49,8 @@ SSH
 
 `putty <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
 
+`vnc <https://raspberrytips.com/use-vnc-raspberry-pi/#:~:text=If%20you%20can%20get%20access%20to%20the%20desktop,done%2C%20click%20on%20%E2%80%9COK%E2%80%9D%20to%20apply%20the%20changes.>`_
+
 `password <https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/>`_
 
 `transfer files <https://howchoo.com/pi/how-to-transfer-files-to-the-raspberry-pi>`_
