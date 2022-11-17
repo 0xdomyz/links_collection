@@ -375,6 +375,11 @@ wsl python installation:
 
 `libre office <https://www.libreoffice.org/download/download/>`_
 
+.. code-block:: text
+
+    alt + o + m + o: fit column to size
+    alt + s + s + a: new sheet
+
 `windows off screen <https://www.alphr.com/find-recover-off-screen-window-windows-10/>`_
 
 `edge shortcuts <https://support.microsoft.com/en-us/microsoft-edge/keyboard-shortcuts-in-microsoft-edge-50d3edab-30d9-c7e4-21ce-37fe2713cfad>`_
