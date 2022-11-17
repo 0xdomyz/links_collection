@@ -63,6 +63,8 @@ interactive debug::
 
 `statsmodel <https://www.statsmodels.org/stable/index.html>`_
 
+`streamlit <https://streamlit.io/>`_
+
 `strftime.org <https://strftime.org/>`_
 
 `threading tute <https://www.pythontutorial.net/python-concurrency/python-threading/>`_
