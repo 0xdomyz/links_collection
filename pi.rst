@@ -81,6 +81,11 @@ Preload libatomic::
     #add to end of file
     export LD_PRELOAD=/usr/lib/arm-linux-gnueabihf/libatomic.so.1.2.0
 
+`cmake <https://lindevs.com/install-cmake-on-raspberry-pi/>`_
+
+::
+    
+    sudo apt install -y cmake
 
 python projects
 -----------------
