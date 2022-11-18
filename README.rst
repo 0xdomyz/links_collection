@@ -10,3 +10,5 @@ Collection of links
 `Modelling <https://github.com/0xdomyz/links_collection/blob/master/model.rst>`_
 
 `Raspberry Pi <https://github.com/0xdomyz/links_collection/blob/master/pi.rst>`_
+
+`Ubuntu <https://github.com/0xdomyz/links_collection/blob/master/ubuntu.rst>`_
