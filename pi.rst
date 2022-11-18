@@ -90,6 +90,8 @@ python packages
     sudo apt install build-essential
     pip install Cython
 
+    pip install --upgrade setuptools
+
 Preload libatomic::
 
     nano ~/.bashrc
