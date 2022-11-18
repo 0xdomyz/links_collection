@@ -59,7 +59,7 @@ postgre on raspbery pi:
     sudo nano /etc/postgresql/13/main/pg_hba.conf
     # change "local" is for Unix domain socket connections only method to md5
 
-    pg_ctlcluster 13 main start
+    sudo pg_ctlcluster 13 main start
 
 postgre on wsl:
 
