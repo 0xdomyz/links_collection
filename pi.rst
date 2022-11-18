@@ -7,6 +7,8 @@ pi os
 
 `factory reset <https://raspians.com/how-to-reset-raspberry-pi/>`_
 
+`temp monitor <https://raspberrytips.com/raspberry-pi-temperature/>`_
+
 .. code-block:: console
 
     echo check status
@@ -71,9 +73,22 @@ python packages
 
 .. code-block:: console
 
-    python3 -m pip install -U numpy
-    python3 -m pip install -U pandas
+    pip install -U pip
     sudo apt-get install libatlas-base-dev
+    python3 -m pip install -U pandas
+
+    sudo apt install python3-dev
+    sudo apt install libpq-dev
+    pip install psycopg2
+    pip install sqlalchemy
+
+    pip install -U jinja2
+    pip install streamlit
+
+    pip install duckdb
+
+    sudo apt install build-essential
+    pip install Cython
 
 Preload libatomic::
 
