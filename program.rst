@@ -122,6 +122,10 @@ git/hub
 
 `ssh <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_
 
+::
+
+    git config --global pull.rebase false
+
 `git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
 
 `pro git <https://git-scm.com/book/en/v2>`_
