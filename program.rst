@@ -125,6 +125,8 @@ git/hub
 ::
 
     git config --global pull.rebase false
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
 
 `git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
 
