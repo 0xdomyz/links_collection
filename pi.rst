@@ -87,6 +87,8 @@ Preload libatomic::
     
     sudo apt install -y cmake
 
+`streamlit <https://discuss.streamlit.io/t/raspberry-pi-streamlit/2900/68>`_
+
 python projects
 -----------------
 
