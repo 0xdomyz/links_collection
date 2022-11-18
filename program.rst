@@ -74,6 +74,28 @@ postgre on wsl:
 
     sudo pg_ctlcluster 12 main start
 
+postgre set up db::
+
+    sudo su postgres
+    psql
+    CREATE DATABASE test_db;
+    CREATE USER test_db_user WITH PASSWORD '1234';
+    GRANT ALL PRIVILEGES ON DATABASE test_db to test_db_user;
+    \q
+    exit
+
+postgre::
+
+    psql test_db test_db_user
+    help
+
+`postgre backup <http://web.archive.org/web/20141108210658/http://www.brownfort.com/2014/10/backup-restore-postgresql/>`_
+
+postgre backup restore::
+
+    pg_dump -h localhost -p 5432 -U postgres -d mydb > backup.sql
+    psql -h localhost -p 5432 -U postgres -d mydb < backup.sql
+
 Emails
 -----------------
 
@@ -374,6 +396,11 @@ wsl python installation:
 `Choco <https://chocolatey.org/install#individual>`_
 
 `libre office <https://www.libreoffice.org/download/download/>`_
+
+.. code-block:: text
+
+    alt + o + m + o: fit column to size
+    alt + s + s + a: new sheet
 
 `windows off screen <https://www.alphr.com/find-recover-off-screen-window-windows-10/>`_
 
