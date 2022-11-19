@@ -73,6 +73,11 @@ interactive debug::
 
 `torch tute <https://pytorch.org/tutorials/beginner/basics/intro.html>`_
 
+`windows installation <https://www.python.org/downloads/windows/>`_
+
+`wsl installtion <https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80>`_
+
+
 websocket
 ^^^^^^^^^^^^^^
 
@@ -81,10 +86,3 @@ websocket
 `websockets <https://websockets.readthedocs.io/en/stable/index.html>`_
 
 `websocket-client <https://websocket-client.readthedocs.io/en/latest/index.html>`_
-
-
-
-`windows installation <https://www.python.org/downloads/windows/>`_
-
-`wsl installtion <https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80>`_
-    
