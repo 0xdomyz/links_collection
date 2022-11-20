@@ -32,6 +32,10 @@ TS
 Market
 --------
 
+`ta projs <https://ta-lib.org/hdr_lnk.html>`_
+
+`quantlib <https://www.quantlib.org/>`_
+
 `qt <https://au1lib.org/book/16970620/d125eb>`_
 
 `adv fin mach <https://au1lib.org/book/3433999/6ae65e>`_
