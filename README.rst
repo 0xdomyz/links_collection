@@ -11,4 +11,4 @@ Collection of links
 
 `Raspberry Pi <https://github.com/0xdomyz/links_collection/blob/master/pi.rst>`_
 
-`Ubuntu <https://github.com/0xdomyz/links_collection/blob/master/ubuntu.rst>`_
+`awesome <https://github.com/sindresorhus/awesome#entertainment>`_
