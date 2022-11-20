@@ -1,6 +1,8 @@
 Python
 -----------------
 
+`awesome python <https://github.com/vinta/awesome-python>`_
+
 `asyncio <https://docs.python.org/3/library/asyncio.html>`_
 
 `asyncio tute <https://realpython.com/async-io-python/>`_

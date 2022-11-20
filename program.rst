@@ -2,15 +2,17 @@
 book
 ------
 
-`SICP <https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start>`_
+`clean <https://github.com/sdcuike/Clean-Code-Collection-Books/blob/master/Clean%20Architecture%20A%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design.pdf>`_
+
+`cs50 <https://github.com/0xdomyz/cs50>`_
+
+`free prog books <https://github.com/EbookFoundation/free-programming-books>`_
 
 `lisp <https://norvig.com/lispy.html>`_
 
-`clean <https://github.com/sdcuike/Clean-Code-Collection-Books/blob/master/Clean%20Architecture%20A%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design.pdf>`_
-
 `pragmatic2 <https://ebin.pub/the-pragmatic-programmer-your-journey-to-mastery-second-edition-20th-anniversary-edition-9780135957059-0135957052.html>`_
 
-`cs50 <https://github.com/0xdomyz/cs50>`_
+`SICP <https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start>`_
 
 C
 ---
@@ -32,6 +34,8 @@ Cloud
 `example <https://gp2mv3.com/python-script-cloud-every-minute-for-free-with-aws-lambda/>`_
 
 `docker <https://hub.docker.com/>`_
+
+`docker cheat sheet <https://github.com/wsargent/docker-cheat-sheet>`_
 
 configs
 -----------
