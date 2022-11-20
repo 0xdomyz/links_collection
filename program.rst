@@ -88,6 +88,10 @@ postgre::
 
     psql test_db test_db_user
     help
+    
+    sudo -u postgres psql
+    \l
+    \dt
 
 `postgre backup <http://web.archive.org/web/20141108210658/http://www.brownfort.com/2014/10/backup-restore-postgresql/>`_
 
