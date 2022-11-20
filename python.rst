@@ -57,8 +57,6 @@ interactive debug::
 
 `scrap <https://www.youtube.com/watch?v=G7s0eGOaRPE>`_
 
-`sci-kit learn <https://scikit-learn.org/stable/getting_started.html#>`_
-
 `seaborn <https://seaborn.pydata.org/index.html>`_
 
 `statsmodel <https://www.statsmodels.org/stable/index.html>`_
@@ -77,6 +75,16 @@ interactive debug::
 
 `wsl installtion <https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80>`_
 
+scikit-learn
+^^^^^^^^^^^^^^^^^^^
+
+`start <https://scikit-learn.org/stable/getting_started.html#>`_
+
+`user guides <https://scikit-learn.org/stable/user_guide.html>`_
+
+`tutes <https://scikit-learn.org/stable/tutorial/index.html>`_
+
+`choose estimator <https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html>`_
 
 websocket
 ^^^^^^^^^^^^^^
