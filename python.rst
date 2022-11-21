@@ -57,8 +57,6 @@ interactive debug::
 
 `seaborn <https://seaborn.pydata.org/index.html>`_
 
-`statsmodel <https://www.statsmodels.org/stable/index.html>`_
-
 `streamlit <https://streamlit.io/>`_
 
 `strftime.org <https://strftime.org/>`_
@@ -66,8 +64,6 @@ interactive debug::
 `threading tute <https://www.pythontutorial.net/python-concurrency/python-threading/>`_
 
 `tk example <http://tkdocs.com/tutorial/firstexample.html>`_
-
-`torch tute <https://pytorch.org/tutorials/beginner/basics/intro.html>`_
 
 `windows installation <https://www.python.org/downloads/windows/>`_
 
@@ -83,6 +79,15 @@ cython
 `cython user guide <https://cython.readthedocs.io/en/latest/src/userguide/index.html>`_
 
 `pandas enhance preformance <https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html>`_
+
+non sklearn ML
+^^^^^^^^^^^^^^^^^
+
+`torch tute <https://pytorch.org/tutorials/beginner/basics/intro.html>`_
+
+`statsmodel <https://www.statsmodels.org/stable/index.html>`_
+
+`keras <https://keras.io/>`_
 
 scikit-learn
 ^^^^^^^^^^^^^^^^^^^
