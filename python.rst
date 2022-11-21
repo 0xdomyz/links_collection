@@ -87,6 +87,10 @@ non sklearn ML
 
 `statsmodel <https://www.statsmodels.org/stable/index.html>`_
 
+`statsmodel user guide <https://www.statsmodels.org/stable/user-guide.html>`_
+
+`statsmodel example <https://www.statsmodels.org/stable/examples/index.html>`_
+
 `keras <https://keras.io/>`_
 
 scikit-learn
