@@ -91,7 +91,11 @@ non sklearn ML
 
 `statsmodel example <https://www.statsmodels.org/stable/examples/index.html>`_
 
-`keras <https://keras.io/>`_
+`keras resources <https://keras.io/getting_started/learning_resources/>`_
+
+`tf installation <https://www.tensorflow.org/install/pip>`_
+
+`keras examples <https://keras.io/examples/>`_
 
 scikit-learn
 ^^^^^^^^^^^^^^^^^^^
