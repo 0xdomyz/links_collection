@@ -21,8 +21,6 @@ Python
 
 `cookbook <https://www.cdnfiles.website/books/2643-python-cookbook-3rd-edition-recipes-for-mastering-python-3-(www.FindPopularBooks.com).pdf>`_
 
-`cython <https://cython.readthedocs.io/en/latest/index.html>`_
-
 `click <https://click.palletsprojects.com/en/8.1.x/>`_
 
 `debugger <https://docs.python.org/3/library/pdb.html>`_
@@ -53,8 +51,6 @@ interactive debug::
 
 `pandas <https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html>`_
 
-`pandas enhance preformance <https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html>`_
-
 `registry items <https://docs.python.org/3/using/windows.html#finding-modules>`_
 
 `scrap <https://www.youtube.com/watch?v=G7s0eGOaRPE>`_
@@ -76,6 +72,17 @@ interactive debug::
 `windows installation <https://www.python.org/downloads/windows/>`_
 
 `wsl installtion <https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80>`_
+
+cython
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`cython <https://cython.readthedocs.io/en/latest/index.html>`_
+
+`cython tute <https://cython.readthedocs.io/en/latest/src/tutorial/>`_
+
+`cython user guide <https://cython.readthedocs.io/en/latest/src/userguide/index.html>`_
+
+`pandas enhance preformance <https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html>`_
 
 scikit-learn
 ^^^^^^^^^^^^^^^^^^^
