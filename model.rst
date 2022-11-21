@@ -3,7 +3,7 @@ Generic
 
 `awesome mach learn <https://github.com/josephmisiti/awesome-machine-learning>`_
 
-`awesome public datasets <https://github.com/awesomedata/awesome-public-datasets>`
+`awesome public datasets <https://github.com/awesomedata/awesome-public-datasets>`_
 
 `intro 2 stat learn with r <https://hastie.su.domains/ISLR2/ISLRv2_website.pdf>`_
 
