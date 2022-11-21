@@ -13,7 +13,9 @@ Generic
 
 `python for finance <https://palmislandtraders.com/econ136/mpff.pdf>`_
 
-`deep <https://www.deeplearningbook.org/>`_
+`deep l <https://www.deeplearningbook.org/>`_
+
+`deep l w/ py <https://github.com/letspython3x/Books/blob/master/Deep%20Learning%20with%20Python.pdf>`_
 
 Credit
 ---------
