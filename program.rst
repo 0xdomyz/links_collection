@@ -73,6 +73,8 @@ Container
 
 `acg docker <https://learn.acloud.guru/search?topics%5B0%5D=Containers&cloudProviders%5B0%5D=Docker>`_
 
+`acg docker quick start <https://learn.acloud.guru/course/da6947b1-0901-4f60-a045-c15ec895a3d9>`_
+
 `aws deep dive containers <https://aws.amazon.com/getting-started/deep-dive-containers/>`_
 
 Databases
