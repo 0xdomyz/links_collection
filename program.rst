@@ -33,9 +33,21 @@ Cloud
 
 `example <https://gp2mv3.com/python-script-cloud-every-minute-for-free-with-aws-lambda/>`_
 
-`docker <https://hub.docker.com/>`_
+`acg aws path developer <https://learn.acloud.guru/learning-path/aws-developer>`_
 
-`docker cheat sheet <https://github.com/wsargent/docker-cheat-sheet>`_
+`acg aws path data <https://learn.acloud.guru/learning-path/aws-data>`_
+
+`acg aws path mach learn <https://learn.acloud.guru/learning-path/aws-ml>`_
+
+`aws console <https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1#>`_
+
+`aws getting started <https://aws.amazon.com/getting-started>`_
+
+`aws hands-on <https://aws.amazon.com/getting-started/hands-on>`_
+
+`aws hands-on sagemaker <https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/>`_
+
+`aws deepdives <https://aws.amazon.com/getting-started/deep-dive-databases/>`_
 
 configs
 -----------
@@ -46,6 +58,17 @@ configs
 `yaml org <https://yaml.org/>`_
 
 `pyyaml <https://pyyaml.org/wiki/PyYAMLDocumentation>`_
+
+Container
+---------------
+
+`docker <https://hub.docker.com/>`_
+
+`docker cheat sheet <https://github.com/wsargent/docker-cheat-sheet>`_
+
+`acg docker <https://learn.acloud.guru/search?topics%5B0%5D=Containers&cloudProviders%5B0%5D=Docker>`_
+
+`aws deep dive containers <https://aws.amazon.com/getting-started/deep-dive-containers/>`_
 
 Databases
 ------------
