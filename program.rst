@@ -62,7 +62,12 @@ configs
 Container
 ---------------
 
-`docker <https://hub.docker.com/>`_
+`docker installation on ubuntu <https://docs.docker.com/engine/install/ubuntu>`_
+
+::
+
+    sudo service --status-all 
+    sudo service docker start
 
 `docker cheat sheet <https://github.com/wsargent/docker-cheat-sheet>`_
 
