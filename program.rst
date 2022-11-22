@@ -21,6 +21,10 @@ C
 
 `vscode tute wsl <https://code.visualstudio.com/docs/cpp/config-wsl>`_
 
+`a course <https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/>`_
+
+`zeromq <https://zeromq.org/>`_
+
 Chrome extension
 -----------------
 
@@ -254,6 +258,8 @@ Rust
 `rustlings <https://github.com/rust-lang/rustlings/>`_
 
 `rust by examples <https://doc.rust-lang.org/stable/rust-by-example/>`_
+
+`rust zeromq <https://github.com/erickt/rust-zmq>`_
 
 regexp
 -----------
