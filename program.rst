@@ -251,6 +251,10 @@ Rust
 
 `rust book <https://doc.rust-lang.org/book/ch00-00-introduction.html>`_
 
+`rustlings <https://github.com/rust-lang/rustlings/>`_
+
+`rust by examples <https://doc.rust-lang.org/stable/rust-by-example/>`_
+
 regexp
 -----------
 
