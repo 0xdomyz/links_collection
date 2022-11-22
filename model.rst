@@ -7,6 +7,12 @@ Generic
 
 `intro 2 stat learn with r <https://hastie.su.domains/ISLR2/ISLRv2_website.pdf>`_
 
+`kaggle learn <https://www.kaggle.com/learn>`_
+
+`kaggle competitions <https://www.kaggle.com/competitions>`_
+
+`kaggle code <https://www.kaggle.com/code>`_
+
 `linear regression with r <http://www.utstat.toronto.edu/~brunner/books/LinearModelsWithR.pdf>`_
 
 `Pattern Recognition and Machine Learning <https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf>`_
