@@ -43,8 +43,6 @@ interactive debug::
 
 `hitchhiker guide <https://docs.python-guide.org/#>`_
 
-`interactive chart <https://sites.northwestern.edu/researchcomputing/2022/02/03/what-is-the-best-interactive-plotting-package-in-python/>`_
-
 `ipython <https://ipython.readthedocs.io/en/stable/index.html>`_
 
 `jinja2 syntax doco <https://jinja.palletsprojects.com/en/3.1.x/templates/>`_
@@ -56,8 +54,6 @@ interactive debug::
 `scrap <https://www.youtube.com/watch?v=G7s0eGOaRPE>`_
 
 `seaborn <https://seaborn.pydata.org/index.html>`_
-
-`streamlit <https://streamlit.io/>`_
 
 `strftime.org <https://strftime.org/>`_
 
@@ -79,6 +75,15 @@ cython
 `cython user guide <https://cython.readthedocs.io/en/latest/src/userguide/index.html>`_
 
 `pandas enhance preformance <https://pandas.pydata.org/pandas-docs/stable/user_guide/enhancingperf.html>`_
+
+GUI
+^^^^^^^^
+
+`interactive chart <https://sites.northwestern.edu/researchcomputing/2022/02/03/what-is-the-best-interactive-plotting-package-in-python/>`_
+
+`streamlit tute <https://docs.streamlit.io/library/get-started>`_
+
+`streamlit examples <https://streamlit.io/gallery>`_
 
 non sklearn ML
 ^^^^^^^^^^^^^^^^^
