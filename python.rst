@@ -85,6 +85,10 @@ GUI
 
 `streamlit examples <https://streamlit.io/gallery>`_
 
+`altair tute <https://altair-viz.github.io/getting_started/starting.html>`_
+
+`altair examples <https://altair-viz.github.io/gallery/index.html>`_
+
 non sklearn ML
 ^^^^^^^^^^^^^^^^^
 
