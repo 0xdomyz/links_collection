@@ -56,6 +56,6 @@ Market
 
 `alpha <https://au1lib.org/book/5284205/b542ee>`_
 
-
+`aq <https://github.com/wilsonfreitas/awesome-quant>`_
 
 
