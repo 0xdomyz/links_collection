@@ -23,6 +23,8 @@ C
 
 `a course <https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/>`_
 
+`ref <https://en.cppreference.com/w/>`_
+
 `zeromq <https://zeromq.org/>`_
 
 Chrome extension
