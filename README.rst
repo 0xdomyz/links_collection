@@ -9,6 +9,8 @@ Collection of links
 
 `Modelling <https://github.com/0xdomyz/links_collection/blob/master/model.rst>`_
 
+`Vscode <https://github.com/0xdomyz/links_collection/blob/master/vscode.rst>`_
+
 `Raspberry Pi <https://github.com/0xdomyz/links_collection/blob/master/pi.rst>`_
 
 `awesome <https://github.com/sindresorhus/awesome#entertainment>`_
