@@ -27,10 +27,6 @@ C
 
 `zeromq <https://zeromq.org/>`_
 
-`snake <https://thepoorengineer.com/en/snake-cplusplus/>`_
-
-`snake2 <https://medium.com/@ngbaanh/classic-snake-in-cpp-100-lines-of-code-for-practice-with-full-explain-in-simplicity-6b278ccd0a0f>`_
-
 `sfml <https://www.sfml-dev.org/tutorials/2.5/start-linux.php>`_
 
 `sfml wsl <https://en.sfml-dev.org/forums/index.php?topic=28293.0>`_
