@@ -31,6 +31,10 @@ C
 
 `sfml wsl <https://en.sfml-dev.org/forums/index.php?topic=28293.0>`_
 
+`websocket <https://github.com/zaphoyd/websocketpp>`_
+
+`async <https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/>`_
+
 Chrome extension
 -----------------
 
