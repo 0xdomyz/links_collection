@@ -338,6 +338,8 @@ Move files:
 .. code-block:: console
 
     cp /mnt/c/Users/user/{file} ~/{file}
+    
+    ls /mnt/d/
 
 `wsl gui <https://techcommunity.microsoft.com/t5/windows-dev-appconsult/running-wsl-gui-apps-on-windows-10/ba-p/1493242>`_
 
