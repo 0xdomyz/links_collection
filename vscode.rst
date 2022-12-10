@@ -55,6 +55,16 @@ vscode shortcut:
             "key": "ctrl+f7",
             "command": "workbench.action.toggleMaximizedPanel",
             "when": "terminalFocus"
+        },
+        
+        {
+            "key": "shift+alt+-",
+            "command": "workbench.action.decreaseViewSize"
+        },
+        
+        {
+            "key": "shift+alt+=",
+            "command": "workbench.action.increaseViewSize"
         }
     ]
 
