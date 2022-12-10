@@ -343,6 +343,12 @@ Move files:
 
 `wsl gui <https://techcommunity.microsoft.com/t5/windows-dev-appconsult/running-wsl-gui-apps-on-windows-10/ba-p/1493242>`_
 
+`wsl sound <https://www.linuxuprising.com/2021/03/how-to-get-sound-pulseaudio-to-work-on.html>`_
+
+`wsl sound 2 <https://github.com/microsoft/WSL/issues/5816>`_
+
+`wsl sound 3 <https://discourse.ubuntu.com/t/getting-sound-to-work-on-wsl2/11869/8>`_
+
 wsl python installation:
 
 .. code-block:: console
