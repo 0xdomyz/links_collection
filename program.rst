@@ -235,6 +235,21 @@ Other
 
 `qtorrent <https://www.qbittorrent.org/>`_
 
+Process manager
+------------------
+
+To use systemd to manage a Python script, you will need to use the following commands::
+
+    systemctl enable
+    systemctl start
+    systemctl stop
+    systemctl restart
+    systemctl status
+    journalctl -u
+    journalctl -f
+
+`systemd manage streamlit <https://fuzzyblog.io/blog/python/2019/11/13/making-a-streamlit-machine-learning-app-into-a-systemd-service.html>`_
+
 R
 -------
 
