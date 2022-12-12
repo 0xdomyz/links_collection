@@ -11,6 +11,11 @@ pi os
 
 `temp monitor <https://raspberrytips.com/raspberry-pi-temperature/>`_
 
+screen dim::
+
+    sudo nano /etc/lightdm/lightdm.conf
+    xserver-command=X -s 0 -dpms
+
 .. code-block:: console
 
     echo check status
