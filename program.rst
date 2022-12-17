@@ -248,6 +248,8 @@ To use systemd to manage a Python script, you will need to use the following com
     journalctl -u
     journalctl -f
 
+`journalctl sizes <https://ngelinux.com/check-journalctl-log-size-and-archive-delete-old-logs/#:~:text=Check%20Journalctl%20Log%20size%20and%20archive%2Fdelete%20old%20logs.,Limiting%20the%20journal%20usage%20using%20below%204%20options.>`_
+
 `systemd manage streamlit <https://fuzzyblog.io/blog/python/2019/11/13/making-a-streamlit-machine-learning-app-into-a-systemd-service.html>`_
 
 R
