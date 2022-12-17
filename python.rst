@@ -3,10 +3,6 @@ Python
 
 `awesome python <https://github.com/vinta/awesome-python>`_
 
-`asyncio <https://docs.python.org/3/library/asyncio.html>`_
-
-`asyncio tute <https://realpython.com/async-io-python/>`_
-
 `advanced cookbook <https://www.programmer-books.com/wp-content/uploads/2019/06/Modern-Python-Cookbook.pdf>`_
 
 `argparser <https://docs.python.org/3/howto/argparse.html#id1>`_
@@ -66,6 +62,13 @@ interactive debug::
 `windows installation <https://www.python.org/downloads/windows/>`_
 
 `wsl installtion <https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80>`_
+
+acycio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`asyncio <https://docs.python.org/3/library/asyncio.html>`_
+
+`asyncio tute <https://realpython.com/async-io-python/>`_
 
 cython
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
