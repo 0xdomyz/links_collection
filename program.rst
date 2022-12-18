@@ -366,6 +366,8 @@ Move files:
 
 `wsl sound 3 <https://discourse.ubuntu.com/t/getting-sound-to-work-on-wsl2/11869/8>`_
 
+`wsl bashrc pgsql start <https://www.wanzul.net/2021/07/03/making-postgresql-run-on-first-start-of-wsl-2-terminal/>`_
+
 wsl python installation:
 
 .. code-block:: console
