@@ -25,6 +25,8 @@ screen dim::
     df -h
     cat /proc/cpuinfo
     cat /proc/meminfo
+    top
+    htop
     
     echo config
     sudo raspi-config
