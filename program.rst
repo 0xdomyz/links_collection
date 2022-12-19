@@ -368,6 +368,10 @@ Move files:
 
 `wsl bashrc pgsql start <https://www.wanzul.net/2021/07/03/making-postgresql-run-on-first-start-of-wsl-2-terminal/>`_
 
+wsl start pgsql::
+
+     sudo service postgresql status > /dev/null || sudo service postgresql start
+
 wsl python installation:
 
 .. code-block:: console
