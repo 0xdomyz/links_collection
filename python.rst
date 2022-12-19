@@ -94,7 +94,18 @@ GUI
 
 `altair examples <https://altair-viz.github.io/gallery/index.html>`_
 
-non sklearn ML
+scikit-learn
+^^^^^^^^^^^^^^^^^^^
+
+`start <https://scikit-learn.org/stable/getting_started.html#>`_
+
+`user guides <https://scikit-learn.org/stable/user_guide.html>`_
+
+`tutes <https://scikit-learn.org/stable/tutorial/index.html>`_
+
+`choose estimator <https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html>`_
+
+other model
 ^^^^^^^^^^^^^^^^^
 
 `torch tute <https://pytorch.org/tutorials/beginner/basics/intro.html>`_
@@ -111,16 +122,7 @@ non sklearn ML
 
 `keras examples <https://keras.io/examples/>`_
 
-scikit-learn
-^^^^^^^^^^^^^^^^^^^
-
-`start <https://scikit-learn.org/stable/getting_started.html#>`_
-
-`user guides <https://scikit-learn.org/stable/user_guide.html>`_
-
-`tutes <https://scikit-learn.org/stable/tutorial/index.html>`_
-
-`choose estimator <https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html>`_
+`pymc <https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/pymc_overview.html>`_
 
 websocket
 ^^^^^^^^^^^^^^
