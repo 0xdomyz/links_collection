@@ -40,6 +40,30 @@ vscode user setting:
         "terminal.integrated.enableMultiLinePasteWarning": false
     }
 
+shortcuts::
+
+    ctrl + p
+    ctrl + p >
+    ctrl + shift + p
+    ctrl + shift + .
+    ctrl + p @
+    ctrl + p #
+    ctrl + p :##
+    shift + arrow
+    ctrl + arrow
+    ctrl + d
+    alt + click
+    ctrl + x
+    alt + arrow
+    alt + shift + arrow
+    ctrl + l
+    ctrl + /
+    ctrl + `
+    ctrl + shift + p task
+    ctrl + shift + p snippet
+    shift + alt + f12
+    right click, find all references, rename symbol
+
 custom shortcut:
 
 .. code-block:: json
