@@ -40,7 +40,7 @@ vscode user setting:
         "terminal.integrated.enableMultiLinePasteWarning": false
     }
 
-vscode shortcut:
+custom shortcut:
 
 .. code-block:: json
 
