@@ -68,28 +68,42 @@ custom shortcut:
 
 .. code-block:: json
 
+    // Place your key bindings in this file to override the defaults
     [
         {
             "key": "ctrl+f6",
             "command": "workbench.action.terminal.kill",
             "when": "terminalFocus"
         },
-        
         {
             "key": "ctrl+f7",
             "command": "workbench.action.toggleMaximizedPanel",
             "when": "terminalFocus"
         },
-        
         {
             "key": "shift+alt+-",
             "command": "workbench.action.decreaseViewSize"
         },
-        
         {
             "key": "shift+alt+=",
             "command": "workbench.action.increaseViewSize"
-        }
+        },
+        {
+            "key": "ctrl+-",
+            "command": "cursorMove",
+            "args": {
+                "to": "nextBlankLine"
+            },
+            "when": "editorTextFocus"
+        },
+        {
+            "key": "ctrl+=",
+            "command": "cursorMove",
+            "args": {
+                "to": "prevBlankLine"
+            },
+            "when": "editorTextFocus"
+        },
     ]
 
 vscode workspace setting:
