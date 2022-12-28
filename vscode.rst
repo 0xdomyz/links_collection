@@ -89,18 +89,38 @@ custom shortcut:
             "command": "workbench.action.increaseViewSize"
         },
         {
-            "key": "ctrl+-",
+            "key": "ctrl+NumPad1",
             "command": "cursorMove",
             "args": {
-                "to": "nextBlankLine"
+                "to": "up",
+                "by": "line",
+                "value": 20,
             },
             "when": "editorTextFocus"
         },
         {
-            "key": "ctrl+=",
+            "key": "ctrl+NumPad0",
+            "command": "cursorMove",
+            "args": {
+                "to": "down",
+                "by": "line",
+                "value": 20,
+            },
+            "when": "editorTextFocus"
+        },
+        {
+            "key": "ctrl+NumPad3",
             "command": "cursorMove",
             "args": {
                 "to": "prevBlankLine"
+            },
+            "when": "editorTextFocus"
+        },
+        {
+            "key": "ctrl+NumPad_decimal",
+            "command": "cursorMove",
+            "args": {
+                "to": "nextBlankLine"
             },
             "when": "editorTextFocus"
         },
