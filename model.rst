@@ -1,3 +1,8 @@
+Books
+----------
+
+`lib gen <https://libgen.gs/index.php>`_
+
 Generic
 --------
 
@@ -49,14 +54,6 @@ Market
 `ta projs <https://ta-lib.org/hdr_lnk.html>`_
 
 `quantlib <https://www.quantlib.org/>`_
-
-`qt <https://au1lib.org/book/16970620/d125eb>`_
-
-`adv fin mach <https://au1lib.org/book/3433999/6ae65e>`_
-
-`mach learn <https://au1lib.org/book/5690419/79c063>`_
-
-`alpha <https://au1lib.org/book/5284205/b542ee>`_
 
 `aq <https://github.com/wilsonfreitas/awesome-quant>`_
 
