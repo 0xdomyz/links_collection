@@ -52,6 +52,7 @@ shortcuts::
     shift + arrow
     ctrl + arrow
     ctrl + d
+    ctrl + h
     alt + click
     ctrl + x
     alt + arrow
