@@ -19,6 +19,8 @@ Python
 
 `click <https://click.palletsprojects.com/en/8.1.x/>`_
 
+`doco <https://docs.python.org/3/>`_
+
 `debugger <https://docs.python.org/3/library/pdb.html>`_
 
 interactive debug::
