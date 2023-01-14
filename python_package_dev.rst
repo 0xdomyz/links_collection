@@ -33,7 +33,11 @@ linux:
 
     sudo apt-get install python3-venv
     python3.9 -m venv venv_pymc3
+    
     source venv_pymc3/bin/activate
+    deactivate
+    
+    source ~/Projects/python_collection/venvs/venv_mach/bin/activate
     deactivate
 
 dependency management
