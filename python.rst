@@ -13,8 +13,6 @@ Python
 
 `built in types <https://docs.python.org/3/library/stdtypes.html>`_
 
-`concurrency tute <https://realpython.com/python-concurrency/>`_
-
 `cookbook <https://www.cdnfiles.website/books/2643-python-cookbook-3rd-edition-recipes-for-mastering-python-3-(www.FindPopularBooks.com).pdf>`_
 
 `click <https://click.palletsprojects.com/en/8.1.x/>`_
@@ -65,12 +63,18 @@ interactive debug::
 
 `wsl installtion <https://python.plainenglish.io/setting-up-python-on-windows-subsystem-for-linux-wsl-26510f1b2d80>`_
 
-acycio
+concurrency
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `asyncio <https://docs.python.org/3/library/asyncio.html>`_
 
 `asyncio tute <https://realpython.com/async-io-python/>`_
+
+`concurrency tute <https://realpython.com/python-concurrency/>`_
+
+`multiprocessing <https://docs.python.org/3/library/multiprocessing.html>`_
+
+`threading <https://realpython.com/intro-to-python-threading/>`_
 
 cython
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^

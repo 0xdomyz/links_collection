@@ -186,6 +186,15 @@ git/hub
 
 `gitignore <https://github.com/github/gitignore>`_
 
+ignore binaries::
+
+    # Ignore all
+    *
+    # Unignore all with extensions
+    !*.*
+    # Unignore all dirs
+    !*/
+
 .. code-block:: console
 
     git clean -n
