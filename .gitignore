@@ -1,6 +1,7 @@
 *.pdf
 *.epub
 *.azw3
+*.identifier
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
