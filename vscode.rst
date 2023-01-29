@@ -110,7 +110,7 @@ custom shortcut:
             "when": "editorTextFocus"
         },
         {
-            "key": "ctrl+NumPad3",
+            "key": "ctrl+NumPad7",
             "command": "cursorMove",
             "args": {
                 "to": "prevBlankLine"
@@ -118,7 +118,7 @@ custom shortcut:
             "when": "editorTextFocus"
         },
         {
-            "key": "ctrl+NumPad_decimal",
+            "key": "ctrl+NumPad4",
             "command": "cursorMove",
             "args": {
                 "to": "nextBlankLine"
