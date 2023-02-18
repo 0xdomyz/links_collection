@@ -17,6 +17,8 @@ book
 C
 ---
 
+`the c book <https://publications.gbdirect.co.uk/c_book/>`_
+
 `vscode tute mingw <https://code.visualstudio.com/docs/cpp/config-mingw>`_
 
 `vscode tute wsl <https://code.visualstudio.com/docs/cpp/config-wsl>`_
@@ -34,6 +36,15 @@ C
 `websocket <https://github.com/zaphoyd/websocketpp>`_
 
 `async <https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/>`_
+
+C++
+-------
+
+Stroustrup B. - The C++ Programming Language, 4th Edition (2013, Addison Wesley)
+
+[C++ in Depth] Bjarne Stroustrup - A Tour of C++ (2022, Addison-Wesley Professional)
+
+Andrew Koenig, Barbara E. Moo - Accelerated C++_ Practical Programming by Example (2000, Addison-Wesley Professional)
 
 Chrome extension
 -----------------
