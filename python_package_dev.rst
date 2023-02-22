@@ -52,6 +52,8 @@ Documentation
 
 `Sphinx directive doco <https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html>`_
 
+`rst cheat sheet <https://bashtage.github.io/sphinx-material/rst-cheatsheet/rst-cheatsheet.html>`_
+
 `Sphinx domains <https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html>`_
 
 `Read the Docs Sphinx cross referencing guide <https://docs.readthedocs.io/en/stable/guides/cross-referencing-with-sphinx.html>`_
