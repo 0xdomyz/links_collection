@@ -11,6 +11,7 @@ table-of-contents
 * `Container`_
 * `Databases`_
 * `Emails`_
+* `ffmpeg`_
 * `git/hub`_
 * `julia`_
 * `linux`_
@@ -203,6 +204,30 @@ Emails
 `sina <https://mail.sina.com.cn/>`_
 
 `burner phone <https://quackr.io/>`_
+
+ffmpeg
+------------
+
+`wiki <https://trac.ffmpeg.org/wiki>`_
+
+`capture screen/sound <https://trac.ffmpeg.org/wiki/Capture/Desktop>`_
+
+`stero mix <https://www.howtogeek.com/39532/how-to-enable-stereo-mix-in-windows-7-to-record-audio/>`_
+
+`direct show <https://trac.ffmpeg.org/wiki/DirectShow>`_
+
+commands::
+
+    #capture sound on windows
+    ffmpeg -f dshow -i audio="Stereo Mix (Realtek High Definition Audio)" aaa.mp3
+
+    #increase volume
+    ffmpeg -i input.wav -filter:a "volume=1.5" output.wav
+
+    #cut end
+    ffmpeg -i "audio.mp3" 2>&1 | grep "Duration" | cut -d " " -f 4
+    ffmpeg -i "audio.mp3" -acodec mp3 -t 100 "audio_cut.mp3"
+    ffmpeg -i "audio.mp3" -acodec mp3 -ss 10 -t 100 "audio_cut.mp3"
 
 git/hub
 -----------
