@@ -2,29 +2,29 @@
 table-of-contents
 ---------------------
 
-`book`_
-`C`_
-`C++`_
-`Chrome extension`_
-`Cloud`_
-`configs`_
-`Container`_
-`Databases`_
-`Data Science`_
-`Emails`_
-`git/hub`_
-`julia`_
-`linux`_
-`Other`_
-`Process manager`_
-`R`_
-`Rust`_
-`regexp`_
-`shell`_
-`vim`_
-`visual studio`_
-`web`_
-`windows`_
+* `book`_
+* `C`_
+* `C++`_
+* `Chrome extension`_
+* `Cloud`_
+* `configs`_
+* `Container`_
+* `Databases`_
+* `Data Science`_
+* `Emails`_
+* `git/hub`_
+* `julia`_
+* `linux`_
+* `Other`_
+* `Process manager`_
+* `R`_
+* `Rust`_
+* `regexp`_
+* `shell`_
+* `vim`_
+* `visual studio`_
+* `web`_
+* `windows`_
 
 book
 ------
