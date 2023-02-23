@@ -10,7 +10,6 @@ table-of-contents
 * `configs`_
 * `Container`_
 * `Databases`_
-* `Data Science`_
 * `Emails`_
 * `git/hub`_
 * `julia`_
