@@ -447,10 +447,13 @@ wsl start pgsql::
 
 wsl python installation:
 
+` install 3.10 from source <https://ubuntuhandbook.org/index.php/2021/10/compile-install-python-3-10-ubuntu/>`_
+
 .. code-block:: console
 
     sudo apt install python3.9 python3-pip       
     sudo apt install python3-dev python3.9-dev
+    
 
     #remap python symlink, this breaks apt-get
     cd /usr/bin/
