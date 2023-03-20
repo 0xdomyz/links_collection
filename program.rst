@@ -447,7 +447,7 @@ wsl start pgsql::
 
 wsl python installation:
 
-` install 3.10 from source <https://ubuntuhandbook.org/index.php/2021/10/compile-install-python-3-10-ubuntu/>`_
+`install 3.10 from source <https://ubuntuhandbook.org/index.php/2021/10/compile-install-python-3-10-ubuntu/>`_
 
 .. code-block:: console
 
