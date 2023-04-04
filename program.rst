@@ -245,6 +245,12 @@ git/hub
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
 
+make branch, push, set tracking to origin same branch::
+
+    git branch -C dev
+    git push origin HEAD
+    git branch --set-upstream-to=origin/dev dev
+
 `git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
 
 `pro git <https://git-scm.com/book/en/v2>`_
