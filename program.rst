@@ -229,6 +229,9 @@ commands::
     ffmpeg -i "audio.mp3" -acodec mp3 -t 100 "audio_cut.mp3"
     ffmpeg -i "audio.mp3" -acodec mp3 -ss 10 -t 100 "audio_cut.mp3"
 
+    #cut to pieces
+    ffmpeg -i "input_audio_file.mp3" -f segment -segment_time 3600 -c copy output_audio_file_%03d.mp3
+
 git/hub
 -----------
 
