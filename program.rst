@@ -251,6 +251,10 @@ make branch, push, set tracking to origin same branch::
     git push origin HEAD
     git branch --set-upstream-to=origin/dev dev
 
+use a branch from github, set up local tracking branch::
+
+    git checkout --track origin/branch-name
+
 `git bash <https://stackoverflow.com/questions/17302977/how-to-launch-git-bash-from-windows-command-line>`_
 
 `pro git <https://git-scm.com/book/en/v2>`_
