@@ -248,6 +248,7 @@ git/hub
 make branch, push, set tracking to origin same branch::
 
     git branch -C dev
+    git checkout dev
     git push origin HEAD
     git branch --set-upstream-to=origin/dev dev
 
