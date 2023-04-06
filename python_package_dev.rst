@@ -24,17 +24,6 @@ Packaging
 
 `pypi <https://pypi.org/>`_
 
-Publishing:
-
-.. code-block:: console
-
-    python -m build
-    twine upload dist/*
-    
-user name: __token__
-
-password: token
-
 Quick package:
 
 .. code-block:: console
@@ -54,15 +43,21 @@ Quick package:
 
 `pyproject.toml example <https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html>`_
     
+Build and Publishing:
+
 .. code-block:: console
 
-    #build
-    python3.11 -m pip install --upgrade build
-    python3.11 -m build
+    #need pypi registration first
     
-    #upload, need pypi registration first
+    python3.11 -m pip install --upgrade build
     python3.11 -m pip install --upgrade twine
+    
+    python3.11 -m build
     python3.11 -m twine upload dist/*
+    
+user name: __token__
+
+password: token
 
 
 Vitual Environment
