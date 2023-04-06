@@ -51,7 +51,8 @@ Quick package:
 
     #meta data
     code pyproject.toml
-    wip
+
+`pyproject.toml example <https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html>`_
     
 .. code-block:: console
 
