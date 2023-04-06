@@ -20,6 +20,8 @@ Packaging
 
 `Packaging tutorial <https://python-packaging.readthedocs.io/en/latest/index.html>`_
 
+`pyproject.toml <https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html>`_
+
 `pypi <https://pypi.org/>`_
 
 Publishing:
