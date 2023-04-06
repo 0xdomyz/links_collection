@@ -33,6 +33,35 @@ user name: __token__
 
 password: token
 
+Quick package:
+
+.. code-block:: console
+
+    #structure
+    mkdir src
+    mkdir src/{package_name}
+    cd src/{package_name}
+    touch __init__.py
+    touch a_script.py   
+    cd ../..
+    
+.. code-block:: console
+
+    #meta data
+    code pyproject.toml
+    wip
+    
+.. code-block:: console
+
+    #build
+    python3.11 -m pip install --upgrade build
+    python3.11 -m build
+    
+    #upload, need pypi registration first
+    python3.11 -m pip install --upgrade twine
+    python3.11 -m twine upload dist/*
+
+
 Vitual Environment
 ==================
 
