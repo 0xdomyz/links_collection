@@ -124,9 +124,10 @@ Quick set-up:
     {author_name}
     {version}
     en
-    echo .. include:: ../../README.rst > docs\source\index.rst
-    docs\make html
-    docs\build\html\index.html
+    echo .. include:: ../../README.rst > docs/source/index.rst
+    cd docs
+    make html
+    explorer.exe docs/build/html/index.html
 
 Quick API:
 
