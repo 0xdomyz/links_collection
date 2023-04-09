@@ -197,6 +197,12 @@ Testing
 
 `Pytest <https://docs.pytest.org/en/7.0.x/>`_
 
+just a func or class or file::
+
+    pytest tests/test_mod.py
+    pytest tests/test_mod.py::test_func
+    pytest tests/test_mod.py::test_class
+
 `Pytest fixtures <https://docs.pytest.org/en/latest/how-to/fixtures.html>`_
 
 `Tox <https://tox.wiki/en/latest/>`_
