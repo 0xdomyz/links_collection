@@ -40,29 +40,29 @@ vscode user setting:
         "terminal.integrated.enableMultiLinePasteWarning": false
     }
 
-shortcuts::
+Vscode shortcuts::
 
-    ctrl + p
-    ctrl + p >
-    ctrl + shift + p
-    ctrl + shift + .
-    ctrl + p @
-    ctrl + p #
-    ctrl + p :##
-    shift + arrow
-    ctrl + arrow
-    ctrl + d
-    ctrl + h
-    alt + click
-    ctrl + x
-    alt + arrow
-    alt + shift + arrow
-    ctrl + l
-    ctrl + /
-    ctrl + `
-    ctrl + shift + p task
-    ctrl + shift + p snippet
-    shift + alt + f12
+    ctrl + p # command palette
+    ctrl + p > # settings
+    ctrl + shift + p # settings
+    ctrl + shift + . # find file
+    ctrl + p @ # symbol
+    ctrl + p {file name} # open file
+    ctrl + p :{line number} # open file at line number
+    shift + arrow # select
+    ctrl + arrow # move cursor
+    ctrl + d # select next
+    ctrl + h # replace
+    alt + click # select multiple
+    ctrl + x # cut line
+    alt + arrow # move line
+    alt + shift + arrow # copy line
+    ctrl + l # select line
+    ctrl + / # comment line
+    ctrl + ` # toggle terminal
+    ctrl + shift + p task # run task
+    ctrl + shift + p snippet # insert snippet
+    shift + alt + f12 # show all references
     right click, find all references, rename symbol
 
 custom shortcut:
