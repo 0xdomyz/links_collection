@@ -523,4 +523,9 @@ Add program to startmenu:
     %ProgramData%\Microsoft\Windows\Start Menu\Programs
     %AppData%\Microsoft\Windows\Start Menu\Programs
 
+Alt desktop::
+
+    WIN + CTRL + LEFT/RIGHT: Switch to the previous or next desktop.
+    WIN + CTRL + D: Create a new desktop.
+    WIN + CTRL + F4: Close the current desktop.
 
