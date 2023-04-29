@@ -73,6 +73,8 @@ Stroustrup B. - The C++ Programming Language, 4th Edition (2013, Addison Wesley)
 
 Andrew Koenig, Barbara E. Moo - Accelerated C++_ Practical Programming by Example (2000, Addison-Wesley Professional)
 
+`boost <https://www.boost.org/>`_
+
 Chrome extension
 -----------------
 
