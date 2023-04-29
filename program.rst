@@ -52,7 +52,18 @@ C
 
 `a course <https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/>`_
 
-`ref <https://en.cppreference.com/w/>`_
+C++
+-------
+
+Stroustrup B. - The C++ Programming Language, 4th Edition (2013, Addison Wesley)
+
+[C++ in Depth] Bjarne Stroustrup - A Tour of C++ (2022, Addison-Wesley Professional)
+
+Andrew Koenig, Barbara E. Moo - Accelerated C++_ Practical Programming by Example (2000, Addison-Wesley Professional)
+
+`c++ ref <https://en.cppreference.com/w/>`_
+
+`boost <https://www.boost.org/>`_
 
 `zeromq <https://zeromq.org/>`_
 
@@ -63,17 +74,6 @@ C
 `websocket <https://github.com/zaphoyd/websocketpp>`_
 
 `async <https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/>`_
-
-C++
--------
-
-Stroustrup B. - The C++ Programming Language, 4th Edition (2013, Addison Wesley)
-
-[C++ in Depth] Bjarne Stroustrup - A Tour of C++ (2022, Addison-Wesley Professional)
-
-Andrew Koenig, Barbara E. Moo - Accelerated C++_ Practical Programming by Example (2000, Addison-Wesley Professional)
-
-`boost <https://www.boost.org/>`_
 
 Chrome extension
 -----------------
