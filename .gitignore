@@ -3,6 +3,9 @@
 *.azw3
 *.identifier
 
+#local pdf folder
+pdfs/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
