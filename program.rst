@@ -279,6 +279,7 @@ ignore binaries::
 
     git clean -n
     git clean -f
+    $ git commit --amend -m "New commit message"
 
 julia
 --------
