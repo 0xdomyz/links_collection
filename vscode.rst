@@ -59,6 +59,7 @@ Vscode shortcuts::
     alt + shift + arrow # copy line
     ctrl + l # select line
     ctrl + / # comment line
+    ctrl + \ # split
     ctrl + ` # toggle terminal
     ctrl + shift + p task # run task
     ctrl + shift + p snippet # insert snippet
