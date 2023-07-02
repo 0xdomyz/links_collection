@@ -96,7 +96,7 @@ Various topics:
 
 `denyhosts <https://www.techrepublic.com/article/how-to-block-ssh-attacks-on-linux-with-denyhosts/amp/>`_
 
-`check if 32 or 64 bit processor <https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/>`_
+`check if 32 or 64 bit processor <https://raspberrypi.stackexchange.com/questions/121938/how-can-i-see-raspberry-pi-os-version-32bit-or-64-bit>`_
 
 install python from source
 ---------------------------
