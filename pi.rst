@@ -27,6 +27,7 @@ quick installation
     ifconfig
 
 anti virus::
+
     sudo apt install clamav
     sudo nano /root/scanvirus.sh
 
@@ -39,6 +40,7 @@ contents::
     clamscan -ri "$DIRTOSCAN" &>"$LOGNAME";
 
 running::
+
     sudo crontab -e
     0 0 * * * bash /root/scanvirus.sh
 
