@@ -31,7 +31,7 @@ anti virus::
     sudo apt install clamav
     sudo nano /root/scanvirus.sh
 
-contents::
+::
 
     #!/bin/bash
     LOGNAME="/var/log/clamav/clamav-$(date +'%Y-%m-%d').log";
@@ -39,10 +39,19 @@ contents::
     
     clamscan -ri "$DIRTOSCAN" &>"$LOGNAME";
 
-running::
+::
 
     sudo crontab -e
     0 0 * * * bash /root/scanvirus.sh
+
+git::
+
+    ssh-keygen -t ed25519 -C "your_email@example.com"
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_ed25519
+    #Add the SSH public key to your account on GitHub
+    cat ~/.ssh/id_ed25519.pub
+
 
 sd card, ssd
 -------------
