@@ -3,12 +3,12 @@ contents
 ===============
 
 * `sd card, ssd`_
-* `pi os`_
 * `SSH`_
 * `install python from source`_
 * `python packages`_
 * `python projects`_
 * `Anti-virus`_
+* `pi os and running status`_
 
 sd card, ssd
 -------------
@@ -27,52 +27,19 @@ usb:
 
 `fix boot from usb issue <https://www.pragmaticlinux.com/2021/03/fix-for-getting-your-ssd-working-via-usb-3-on-your-raspberry-pi/>`_
 
-pi os
-----------
-
-`config <https://www.raspberrypi.com/documentation/computers/configuration.html>`_
-
-`doco <https://www.raspberrypi.com/documentation/computers/os.html>`_
-
-`upgrade os <https://raspberrytips.com/update-raspberry-pi-latest-version/>`_
-
-`factory reset <https://raspians.com/how-to-reset-raspberry-pi/>`_
-
-`temp monitor <https://raspberrytips.com/raspberry-pi-temperature/>`_
-
-screen dim::
-
-    sudo nano /etc/lightdm/lightdm.conf
-    xserver-command=X -s 0 -dpms
-
-.. code-block:: console
-
-    echo check status
-    cat /etc/os-release
-    vcgencmd measure_temp
-    free -m
-    df -h
-    cat /proc/cpuinfo
-    cat /proc/meminfo
-    top
-    htop
-    
-    echo config
-    sudo raspi-config
-
-    echo update upgrade
-    sudo apt update
-    sudo apt upgrade
-    echo sudo apt full-upgrade
 
 SSH
 ------
 
-`doco <https://www.raspberrypi.com/documentation/computers/remote-access.html#vnc>`_
+Install vnc server:
 
-`tute <https://www.thesecmaster.com/five-easiest-ways-to-connect-raspberry-pi-remotely-in-2021/>`_
+`official doco vnc server <https://www.raspberrypi.com/documentation/computers/remote-access.html#vnc>`_
 
-`processor <https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/>`_
+Setups: Static lease, ssh, and other ways
+
+`tute of various ways <https://www.thesecmaster.com/five-easiest-ways-to-connect-raspberry-pi-remotely-in-2021/>`_
+
+Various topics:
 
 `putty <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
 
@@ -85,6 +52,8 @@ SSH
 `ssh from outside lan <https://forums.raspberrypi.com/viewtopic.php?t=20826>`_
 
 `denyhosts <https://www.techrepublic.com/article/how-to-block-ssh-attacks-on-linux-with-denyhosts/amp/>`_
+
+`check if 32 or 64 bit processor <https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/>`_
 
 install python from source
 ---------------------------
@@ -146,4 +115,43 @@ Anti-virus
 .. code-block:: console
 
     ls /var/log/clamav
+
+
+pi os and running status
+-----------------------------
+
+`config <https://www.raspberrypi.com/documentation/computers/configuration.html>`_
+
+`doco <https://www.raspberrypi.com/documentation/computers/os.html>`_
+
+`upgrade os <https://raspberrytips.com/update-raspberry-pi-latest-version/>`_
+
+`factory reset <https://raspians.com/how-to-reset-raspberry-pi/>`_
+
+`temp monitor <https://raspberrytips.com/raspberry-pi-temperature/>`_
+
+screen dim::
+
+    sudo nano /etc/lightdm/lightdm.conf
+    xserver-command=X -s 0 -dpms
+
+.. code-block:: console
+
+    echo check status
+    cat /etc/os-release
+    vcgencmd measure_temp
+    free -m
+    df -h
+    cat /proc/cpuinfo
+    cat /proc/meminfo
+    top
+    htop
+    
+    echo config
+    sudo raspi-config
+
+    echo update upgrade
+    sudo apt update
+    sudo apt upgrade
+    echo sudo apt full-upgrade
 
