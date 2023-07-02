@@ -2,13 +2,30 @@
 contents
 ===============
 
-* `pi os`_
 * `sd card, ssd`_
+* `pi os`_
 * `SSH`_
 * `install python from source`_
 * `python packages`_
 * `python projects`_
 * `Anti-virus`_
+
+sd card, ssd
+-------------
+
+`imaging <https://www.raspberrypi.com/software/>`_
+
+advanced options: ctrl+shift+x
+
+`sd card <https://www.pcguide.com/raspberry-pi/guide/best-sd-card/>`_
+
+usb:
+
+`boot from usb <https://www.pragmaticlinux.com/2021/12/directly-boot-your-raspberry-pi-4-from-a-usb-drive/>`_
+
+`boot from usb config <https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/>`_
+
+`fix boot from usb issue <https://www.pragmaticlinux.com/2021/03/fix-for-getting-your-ssd-working-via-usb-3-on-your-raspberry-pi/>`_
 
 pi os
 ----------
@@ -47,19 +64,6 @@ screen dim::
     sudo apt update
     sudo apt upgrade
     echo sudo apt full-upgrade
-
-sd card, ssd
--------------
-
-`imaging <https://www.raspberrypi.com/software/>`_
-
-`sd card <https://www.pcguide.com/raspberry-pi/guide/best-sd-card/>`_
-
-`boot from usb <https://www.pragmaticlinux.com/2021/12/directly-boot-your-raspberry-pi-4-from-a-usb-drive/>`_
-
-`boot from usb config <https://jamesachambers.com/raspberry-pi-4-usb-boot-config-guide-for-ssd-flash-drives/>`_
-
-`fix boot from usb issue <https://www.pragmaticlinux.com/2021/03/fix-for-getting-your-ssd-working-via-usb-3-on-your-raspberry-pi/>`_
 
 SSH
 ------
