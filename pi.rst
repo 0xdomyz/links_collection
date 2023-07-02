@@ -143,6 +143,10 @@ Preload libatomic::
 
 `streamlit <https://discuss.streamlit.io/t/raspberry-pi-streamlit/2900/68>`_
 
+`arrow installation issue <https://github.com/apache/arrow/issues/35470>`_
+
+`build arrow <https://arrow.apache.org/docs/developers/python.html#python-development>`_
+
 python projects
 -----------------
 
