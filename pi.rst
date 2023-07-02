@@ -203,3 +203,7 @@ screen dim::
     sudo apt upgrade
     echo sudo apt full-upgrade
 
+shutdown::
+
+    sudo poweroff
+    sudo shutdown -h now
