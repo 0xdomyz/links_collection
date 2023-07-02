@@ -96,7 +96,6 @@ Various topics:
 
 `denyhosts <https://www.techrepublic.com/article/how-to-block-ssh-attacks-on-linux-with-denyhosts/amp/>`_
 
-`check if 32 or 64 bit processor <https://raspberrypi.stackexchange.com/questions/121938/how-can-i-see-raspberry-pi-os-version-32bit-or-64-bit>`_
 
 install python from source
 ---------------------------
@@ -146,6 +145,8 @@ Preload libatomic::
 `arrow installation issue <https://github.com/apache/arrow/issues/35470>`_
 
 `build arrow <https://arrow.apache.org/docs/developers/python.html#python-development>`_
+
+`check if 32 or 64 bit os <https://raspberrypi.stackexchange.com/questions/121938/how-can-i-see-raspberry-pi-os-version-32bit-or-64-bit>`_
 
 python projects
 -----------------
