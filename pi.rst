@@ -2,6 +2,7 @@
 contents
 ===============
 
+* `quick installation`_
 * `sd card, ssd`_
 * `SSH`_
 * `install python from source`_
@@ -9,6 +10,22 @@ contents
 * `python projects`_
 * `Anti-virus`_
 * `pi os and running status`_
+
+quick installation
+-----------------------
+
+::
+
+    #ssh, vnc
+    sudo apt update
+    sudo apt install realvnc-vnc-server realvnc-vnc-viewer
+
+    #config -> interface option -> enable ssh, vnc
+    sudo raspi-config
+
+    #find out ether, setup static lease
+    ifconfig
+
 
 sd card, ssd
 -------------
