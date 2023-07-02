@@ -2,7 +2,7 @@
 contents
 ===============
 
-* `quick installation`_
+* `quick setup`_
 * `sd card, ssd`_
 * `SSH`_
 * `install python from source`_
@@ -11,7 +11,7 @@ contents
 * `Anti-virus`_
 * `pi os and running status`_
 
-quick installation
+quick setup
 -----------------------
 
 ::
