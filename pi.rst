@@ -26,6 +26,21 @@ quick installation
     #find out ether, setup static lease
     ifconfig
 
+anti virus::
+    sudo apt install clamav
+    sudo nano /root/scanvirus.sh
+
+contents::
+
+    #!/bin/bash
+    LOGNAME="/var/log/clamav/clamav-$(date +'%Y-%m-%d').log";
+    DIRTOSCAN="/home";
+    
+    clamscan -ri "$DIRTOSCAN" &>"$LOGNAME";
+
+running::
+    sudo crontab -e
+    0 0 * * * bash /root/scanvirus.sh
 
 sd card, ssd
 -------------
