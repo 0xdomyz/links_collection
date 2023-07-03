@@ -52,6 +52,10 @@ git::
     #Add the SSH public key to your account on GitHub
     cat ~/.ssh/id_ed25519.pub
 
+    git config --global pull.rebase false
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+
 
 sd card, ssd
 -------------
