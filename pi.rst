@@ -129,6 +129,7 @@ python packages
     pip install --upgrade setuptools
 
 pyarrow issues
+^^^^^^^^^^^^^^^^^^^^
 
 Preload libatomic::
 
