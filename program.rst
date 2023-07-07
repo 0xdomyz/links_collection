@@ -21,6 +21,7 @@ table-of-contents
 * `Rust`_
 * `regexp`_
 * `shell`_
+* `ssh`_
 * `vim`_
 * `visual studio`_
 * `web`_
@@ -391,6 +392,11 @@ shell
 -------
 
 `shell collection <https://github.com/0xdomyz/shell_collection>`_
+
+ssh
+---------
+
+`ssh tips from visual studio <https://code.visualstudio.com/docs/remote/troubleshooting#_ssh-tips>`_
 
 vim
 ---------
