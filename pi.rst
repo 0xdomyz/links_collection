@@ -5,6 +5,7 @@ contents
 * `quick setup`_
 * `sd card, ssd`_
 * `SSH`_
+* `headless`_
 * `install python from source`_
 * `python packages`_
 * `python projects`_
@@ -21,6 +22,8 @@ quick setup
     sudo apt install realvnc-vnc-server realvnc-vnc-viewer
 
     #config -> interface option -> enable ssh, vnc
+    #config -> change password
+    #config -> network -> hostname
     sudo raspi-config
 
     #find out ether, setup static lease
@@ -99,6 +102,30 @@ Various topics:
 `ssh from outside lan <https://forums.raspberrypi.com/viewtopic.php?t=20826>`_
 
 `denyhosts <https://www.techrepublic.com/article/how-to-block-ssh-attacks-on-linux-with-denyhosts/amp/>`_
+
+
+headless
+----------------
+
+.. code-block:: console
+
+    cd boot
+    touch ssh
+    sudo nano wpa_supplicant.conf
+
+::
+    
+    country=AU
+    ctrl_interface=DIR=/var/run/wpa_supplicant
+    GROUP=netdev
+    update_config=1
+    network={
+        ssid="your_real_wifi_ssid"
+        psk="your_real_password"
+        key_mgmt=WPA-PSK
+        scan_ssid=1
+    }
+
 
 
 install python from source
