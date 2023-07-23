@@ -20,6 +20,7 @@ table-of-contents
 * `R`_
 * `Rust`_
 * `regexp`_
+* `sdelete`_
 * `shell`_
 * `ssh`_
 * `vim`_
@@ -387,6 +388,23 @@ regexp
 -----------
 
 `spec <https://www.regular-expressions.info/>`_
+
+sdelete
+------------
+
+`sysinternals <https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete>`_
+
+::
+
+    # map to path
+
+    # clean up space
+    sdelete64 -p 3 -c c:
+    sdelete64 -p 3 -c d:
+    sdelete64 -p 3 -c e:
+
+    #delete all files in a folder
+    sdelete64 -p 3 -r -s "New folder\*"
 
 shell
 -------
