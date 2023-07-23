@@ -20,7 +20,7 @@ table-of-contents
 * `R`_
 * `Rust`_
 * `regexp`_
-* `sdelete`_
+* `sdelete & winfr`_
 * `shell`_
 * `ssh`_
 * `vim`_
@@ -389,8 +389,8 @@ regexp
 
 `spec <https://www.regular-expressions.info/>`_
 
-sdelete
-------------
+sdelete & winfr
+-------------------
 
 `sysinternals <https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete>`_
 
@@ -405,6 +405,14 @@ sdelete
 
     #delete all files in a folder
     sdelete64 -p 3 -r -s "New folder\*"
+
+`winfr <https://au.pcmag.com/windows-xp/68079/how-to-recover-deleted-files-in-windows-10>`_
+
+::
+
+    # recover files
+    winfr C: E:\RecoveryDestination /extensive /n "Users\<username>\Downloads\*.pdf" /n "Users\<username>\Downloads\*.png"
+    winfr C: E:\Recovery /regular /n "Users\User\Downloads\*"
 
 shell
 -------
