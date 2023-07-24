@@ -20,7 +20,7 @@ table-of-contents
 * `R`_
 * `Rust`_
 * `regexp`_
-* `sdelete & winfr`_
+* `sdelete, winfr, diskpart`_
 * `shell`_
 * `ssh`_
 * `vim`_
@@ -389,8 +389,8 @@ regexp
 
 `spec <https://www.regular-expressions.info/>`_
 
-sdelete & winfr
--------------------
+sdelete, winfr, diskpart
+--------------------------
 
 `sysinternals <https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete>`_
 
@@ -413,6 +413,9 @@ sdelete & winfr
     # recover files
     winfr C: E:\RecoveryDestination /extensive /n "Users\<username>\Downloads\*.pdf" /n "Users\<username>\Downloads\*.png"
     winfr C: E:\Recovery /regular /n "Users\User\Downloads\*"
+
+
+`diskpart <https://www.tomshardware.com/how-to/secure-erase-ssd-or-hard-drive>`
 
 shell
 -------
