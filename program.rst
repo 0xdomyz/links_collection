@@ -415,7 +415,7 @@ sdelete, winfr, diskpart
     winfr C: E:\Recovery /regular /n "Users\User\Downloads\*"
 
 
-`diskpart <https://www.tomshardware.com/how-to/secure-erase-ssd-or-hard-drive>`
+`diskpart <https://www.tomshardware.com/how-to/secure-erase-ssd-or-hard-drive>`_
 
 shell
 -------
