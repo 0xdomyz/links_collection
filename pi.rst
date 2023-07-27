@@ -93,6 +93,8 @@ Various topics:
 
 `putty <https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_
 
+`check system arch <https://www.tenforums.com/tutorials/176966-how-check-if-processor-32-bit-64-bit-arm-windows-10-a.html>`_
+
 `vnc <https://raspberrytips.com/use-vnc-raspberry-pi/#:~:text=If%20you%20can%20get%20access%20to%20the%20desktop,done%2C%20click%20on%20%E2%80%9COK%E2%80%9D%20to%20apply%20the%20changes.>`_
 
 `password <https://tutorials-raspberrypi.com/raspberry-pi-default-login-password/>`_
