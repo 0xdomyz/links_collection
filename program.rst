@@ -459,6 +459,8 @@ windows
 
 `Susbsys for linux <https://docs.microsoft.com/en-us/windows/wsl/install#install>`_
 
+`best practise on environment and other softs on wsl <https://learn.microsoft.com/en-us/windows/wsl/setup/environment>`_
+
 Access from files explorer:
 
 .. code-block:: text
