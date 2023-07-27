@@ -4,7 +4,9 @@ windows
 #. browsers
 #. wsl
 #. vscode
-#. vnc, putty
+#. git
+#. python
 #. databases
+#. vnc, putty
 #. password manager
 #. credential files
