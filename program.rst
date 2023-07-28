@@ -509,13 +509,32 @@ wsl start pgsql::
 
 wsl python installation:
 
-`install 3.10 from source <https://ubuntuhandbook.org/index.php/2021/10/compile-install-python-3-10-ubuntu/>`_
-
 .. code-block:: console
 
-    sudo apt install python3.9 python3-pip       
-    sudo apt install python3-dev python3.9-dev
+    sudo apt install python3.11
+    sudo apt install python3-pip
+    sudo apt install python3-dev
+
+    python3.11 -m pip install -U pip
+
+    python3.11 -m pip install numpy
+    python3.11 -m pip install pandas
+    python3.11 -m pip install scikit-learn
+    python3.11 -m pip install seaborn
     
+    python3.11 -m pip install sqlalchemy
+    
+    sudo apt install postgresql
+    sudo apt install libpq-dev
+    sudo apt-get install libatlas-base-dev
+    #python3.11 -m pip install psycopg2
+    python3.11 -m pip install psycopg2-binary
+
+    python3.11 -m pip install Cython
+
+wsl python path:
+
+.. code-block:: console
 
     #remap python symlink, this breaks apt-get
     cd /usr/bin/
@@ -525,29 +544,11 @@ wsl python installation:
     sudo ln -s python3.9 /usr/bin/python3
 
     #update-alternatives
-
     #map alt python to path
-
-    #check pip
-    cd /usr/bin/
-    code pip
 
     #add python path to .bashrc
     code .bashrc
     export PATH=”$PATH:/home/{your_linux_username}/.local/bin”
-    
-    python3.9 -m pip install -U pip
-
-    pip install numpy
-    pip install pandas
-    pip install sklearn
-    pip install seaborn
-    
-    pip install sqlalchemy
-    
-    sudo apt install postgresql
-    sudo apt install libpq-dev
-    pip install psycopg2
 
 `Choco <https://chocolatey.org/install#individual>`_
 
