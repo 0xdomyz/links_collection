@@ -7,6 +7,8 @@ vscode
 
 `remote-ssh <https://code.visualstudio.com/docs/remote/ssh>`_
 
+Developer: toggle developer tools, console
+
 Extensions:
 
 #. remote development
@@ -23,7 +25,7 @@ preferences open user settings (json):
     {
         "editor.renderWhitespace": "all",
         "editor.mouseWheelZoom": true,
-        "editor.inlineSuggest.enabled": true,
+        // "editor.inlineSuggest.enabled": true,
         "editor.rulers": [
             90
         ],
