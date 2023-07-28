@@ -7,14 +7,24 @@ vscode
 
 `remote-ssh <https://code.visualstudio.com/docs/remote/ssh>`_
 
-vscode user setting:
+Extensions:
+
+#. remote development
+#. copilot
+#. python
+#. r
+#. c++
+#. rust-analyzer
+#. black formatter
+
+preferences open user settings (json):
 
 .. code-block:: json
 
     {
-        "editor.renderWhitespace": "all",
-        "editor.mouseWheelZoom": true,
-        "python.terminal.activateEnvironment": false,
+    "editor.renderWhitespace": "all",
+    "editor.mouseWheelZoom": true,
+    "editor.inlineSuggest.enabled": true,
         "editor.rulers": [90],
         "explorer.confirmDelete": false,
         "terminal.explorerKind": "external",
@@ -66,7 +76,7 @@ Vscode shortcuts::
     shift + alt + f12 # show all references
     right click, find all references, rename symbol
 
-custom shortcut:
+preferences open keyboard shortcuts (json):
 
 .. code-block:: json
 
