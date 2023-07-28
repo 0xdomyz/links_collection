@@ -15,17 +15,21 @@ Extensions:
 #. r
 #. c++
 #. rust-analyzer
-#. black formatter
 
 preferences open user settings (json):
 
 .. code-block:: json
 
     {
-    "editor.renderWhitespace": "all",
-    "editor.mouseWheelZoom": true,
-    "editor.inlineSuggest.enabled": true,
-        "editor.rulers": [90],
+        "editor.renderWhitespace": "all",
+        "editor.mouseWheelZoom": true,
+        "editor.inlineSuggest.enabled": true,
+        "editor.rulers": [
+            90
+        ],
+        "editor.tabSize": 4,
+        "editor.formatOnSave": true,
+        "editor.insertSpaces": true,
         "explorer.confirmDelete": false,
         "terminal.explorerKind": "external",
         "workbench.startupEditor": "none",
@@ -47,7 +51,10 @@ preferences open user settings (json):
                 "source": "Git Bash"
             }
         },
-        "terminal.integrated.enableMultiLinePasteWarning": false
+        "terminal.integrated.enableMultiLinePasteWarning": false,
+        "git.openRepositoryInParentFolders": "never",
+        "git.enableSmartCommit": true,
+        "git.confirmSync": false,
     }
 
 Vscode shortcuts::
