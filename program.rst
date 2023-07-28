@@ -247,6 +247,10 @@ git/hub
 
 `ssh <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_
 
+change permission if drop ssh into .ssh::
+
+    chmod 600 ~/.ssh/id_ed25519
+
 ::
 
     git config --global pull.rebase false
