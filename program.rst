@@ -569,7 +569,9 @@ Add program to startmenu:
 
 .. code-block:: text
 
+    #coputer wide
     %ProgramData%\Microsoft\Windows\Start Menu\Programs
+    #user
     %AppData%\Microsoft\Windows\Start Menu\Programs
 
 Alt desktop::
