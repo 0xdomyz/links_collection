@@ -574,6 +574,9 @@ Add program to startmenu:
     #user
     %AppData%\Microsoft\Windows\Start Menu\Programs
 
+    #apps
+    shell:appsfolder
+
 Alt desktop::
 
     WIN + CTRL + LEFT/RIGHT: Switch to the previous or next desktop.
