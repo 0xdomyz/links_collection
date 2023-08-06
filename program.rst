@@ -82,6 +82,8 @@ Andrew Koenig, Barbara E. Moo - Accelerated C++_ Practical Programming by Exampl
 
 `async <https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/>`_
 
+`sigcpp <https://sigcpp.github.io/>`_
+
 Chrome extension
 -----------------
 
