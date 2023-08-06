@@ -23,6 +23,7 @@ table-of-contents
 * `sdelete, winfr, diskpart`_
 * `shell`_
 * `ssh`_
+* `style`_
 * `vim`_
 * `visual studio`_
 * `web`_
@@ -430,6 +431,11 @@ ssh
 ---------
 
 `ssh tips from visual studio <https://code.visualstudio.com/docs/remote/troubleshooting#_ssh-tips>`_
+
+style
+-----------
+
+`google style guides <https://google.github.io/styleguide/>`_
 
 vim
 ---------
