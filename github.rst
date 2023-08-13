@@ -47,12 +47,13 @@ content
     [pull]
         rebase = false
     [user]
-        email = examnple@outlook.com
-        name = example
+        email = sdf@outlook.com
+        name = sdf
     [alias]
         s = status
+        p = pull
         c = !git add -A && git commit -m
-        p = push
+        ps = push
         l = log --oneline --graph --decorate
 
 
