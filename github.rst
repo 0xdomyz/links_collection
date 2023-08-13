@@ -168,6 +168,7 @@ ignore binaries::
     !*.*
     # Unignore all dirs
     !*/
+    
 
 
 references
