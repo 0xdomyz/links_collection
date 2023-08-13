@@ -11,6 +11,10 @@ Collection of links
 
 `Vscode <https://github.com/0xdomyz/links_collection/blob/master/vscode.rst>`_
 
+`windows <https://github.com/0xdomyz/links_collection/blob/master/windows.rst>`
+
+`git/github <https://github.com/0xdomyz/links_collection/blob/master/github.rst>`
+
 `Raspberry Pi <https://github.com/0xdomyz/links_collection/blob/master/pi.rst>`_
 
 `awesome <https://github.com/sindresorhus/awesome#entertainment>`_
