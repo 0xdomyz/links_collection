@@ -66,17 +66,24 @@ b::
     git branch -m old-name new-name
 
     #make branch, push, set tracking to origin same branch
-
     git branch -C dev
     git checkout dev
     git push origin HEAD
     git branch --set-upstream-to=origin/dev dev
+
+    #bisect
+    git bisect start
+    git bisect bad
+    git bisect good 1.0
+    git bisect reset
 
 c::
 
     git checkout branch-name
     git checkout -b branch-name
     git checkout -b branch-name origin/branch-name
+    #switch to previous branch
+    git checkout -
 
     #use a branch from github, set up local tracking branch
     git checkout --track origin/branch-name
@@ -130,14 +137,34 @@ r::
     git remote -v
     git remote add origin
 
+    #reset to a cloud commit
+    git fetch origin
+    git reset --hard origin/master
+    git clean -df
+
+    #squash commits
+    git rebase master -i
+    #pick, squash, edit, reword, fixup, exec, drop
+
+    #auto squash commits
+    git commit -m "fix: fix bug"
+    git commit --squash 123456
+    git rebase -i --autosquash
+
 s::
 
     git status
     git status -s
     git status -sb
 
+    #save a stash and apply it
     git stash
     git stash pop
+
+    #save a stash with a message
+    git stash save part1
+    git stash list
+    git stash apply 0
 
 t::
 
