@@ -11,9 +11,9 @@ Collection of links
 
 `Vscode <https://github.com/0xdomyz/links_collection/blob/master/vscode.rst>`_
 
-`windows <https://github.com/0xdomyz/links_collection/blob/master/windows.rst>`
+`windows <https://github.com/0xdomyz/links_collection/blob/master/windows.rst>`_
 
-`git/github <https://github.com/0xdomyz/links_collection/blob/master/github.rst>`
+`git/github <https://github.com/0xdomyz/links_collection/blob/master/github.rst>`_
 
 `Raspberry Pi <https://github.com/0xdomyz/links_collection/blob/master/pi.rst>`_
 
