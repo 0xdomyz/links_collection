@@ -21,7 +21,6 @@ change permission if drop ssh into .ssh::
     chmod 600 ~/.ssh/id_ed25519
 
 
-
 configs
 -------------
 basic::
@@ -45,7 +44,16 @@ content
 
 .. code-block:: console
 
-    aa
+    [pull]
+        rebase = false
+    [user]
+        email = examnple@outlook.com
+        name = example
+    [alias]
+        s = status
+        c = !git add -A && git commit -m
+        p = push
+        l = log --oneline --graph --decorate
 
 
 example usages
