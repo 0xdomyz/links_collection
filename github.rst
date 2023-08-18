@@ -60,7 +60,7 @@ open and edit::
 custom shortcut::
 
     git config --global alias.s status
-    git config --global alias.c 'git add . && git commit -m'
+    git config --global alias.c '!git add -A && git commit -m'
 
 content
 
@@ -74,7 +74,7 @@ content
     [alias]
         s = status
         p = pull
-        c = git add . && git commit -m
+        c = !git add . && git commit -m
         ps = push
         l = log --oneline --graph --decorate
 
