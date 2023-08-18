@@ -3,6 +3,7 @@ table-of-contents
 ======================
 
 #. `set up`_
+#. `new local repo`_
 #. `configs`_
 #. `example usages`_
 #. `ignore`_
@@ -20,6 +21,27 @@ change permission if drop ssh into .ssh::
 
     chmod 600 ~/.ssh/id_ed25519
 
+new local repo
+-------------------
+
+.. code-block:: console
+
+    mkdir test
+    cd test
+    git init
+
+    #linux
+    touch README.md
+    #windows
+    type nul > README.md
+
+    git add .
+    git commit -m "first commit"
+    git branch -M main
+
+    #add remote repo
+    git remote add origin <remote repository URL>
+    git push -u origin main
 
 configs
 -------------
@@ -37,8 +59,8 @@ open and edit::
 
 custom shortcut::
 
-    git config --global alias.st status
-    git config --global alias.ac '!git add -A && git commit -m'
+    git config --global alias.s status
+    git config --global alias.c 'git add . && git commit -m'
 
 content
 
@@ -52,7 +74,7 @@ content
     [alias]
         s = status
         p = pull
-        c = !git add -A && git commit -m
+        c = git add . && git commit -m
         ps = push
         l = log --oneline --graph --decorate
 
@@ -108,6 +130,8 @@ c::
     git clean -n
     git clean -f
 
+    #apply a particular commit on current branch
+    git cherry-pick 123456
 
 d::
 
@@ -129,6 +153,9 @@ l::
     git log --oneline
     git log --oneline --graph
     git log --oneline --graph --decorate
+
+    #reflog
+    git reflog
 
 m::
 
@@ -159,6 +186,11 @@ r::
     git commit -m "fix: fix bug"
     git commit --squash 123456
     git rebase -i --autosquash
+
+    #revert last commit
+    git revert HEAD
+    #revert but preserve changes
+    git revert HEAD --no-commit    
 
 s::
 
