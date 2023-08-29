@@ -131,3 +131,4 @@ Alt desktop::
     WIN + CTRL + D: Create a new desktop.
     WIN + CTRL + F4: Close the current desktop.
 
+`unc path <https://stackoverflow.com/questions/21482825/find-unc-path-of-a-network-drive>`_
