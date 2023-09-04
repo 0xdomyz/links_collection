@@ -11,12 +11,14 @@ Developer: toggle developer tools, console
 
 Extensions:
 
-#. remote development
-#. copilot
-#. python
-#. r
-#. c++
-#. rust-analyzer
+- remote development
+- copilot
+- python
+- r
+- c++
+- rust-analyzer
+- gitlens
+- docker
 
 preferences open user settings (json):
 
