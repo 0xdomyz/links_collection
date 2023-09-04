@@ -23,19 +23,40 @@ preferences open user settings (json):
 .. code-block:: json
 
     {
-        "editor.renderWhitespace": "all",
+        "[python]": {
+            "editor.defaultFormatter": "ms-python.black-formatter"
+        },
+        "editor.formatOnSave": true,
+        "editor.inlineSuggest.enabled": true,
+        "editor.insertSpaces": true,
         "editor.mouseWheelZoom": true,
-        // "editor.inlineSuggest.enabled": true,
+        "editor.renderWhitespace": "all",
         "editor.rulers": [
             90
         ],
+        "editor.stickyScroll.enabled": true,
         "editor.tabSize": 4,
-        "editor.formatOnSave": true,
-        "editor.insertSpaces": true,
         "explorer.confirmDelete": false,
+        "explorer.confirmDragAndDrop": false,
+        "git.confirmSync": false,
+        "git.enableSmartCommit": true,
+        "git.openRepositoryInParentFolders": "never",
+        "github.copilot.enable": {
+            "*": true,
+            "plaintext": true,
+            "markdown": false,
+            "scminput": false
+        },
+        "gitlens.codeLens.enabled": false,
+        "gitlens.currentLine.enabled": false,
+        "gitlens.hovers.currentLine.over": "line",
+        "remote.SSH.remotePlatform": {
+            "192.168.0.251": "linux"
+        },
+        "security.workspace.trust.untrustedFiles": "open",
         "terminal.explorerKind": "external",
-        "workbench.startupEditor": "none",
         "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "terminal.integrated.enableMultiLinePasteWarning": false,
         "terminal.integrated.profiles.windows": {
             "PowerShell": {
                 "source": "PowerShell",
@@ -53,10 +74,7 @@ preferences open user settings (json):
                 "source": "Git Bash"
             }
         },
-        "terminal.integrated.enableMultiLinePasteWarning": false,
-        "git.openRepositoryInParentFolders": "never",
-        "git.enableSmartCommit": true,
-        "git.confirmSync": false,
+        "workbench.startupEditor": "none",
     }
 
 Vscode shortcuts::
