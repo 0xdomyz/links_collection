@@ -7,6 +7,8 @@ vscode
 
 `remote-ssh <https://code.visualstudio.com/docs/remote/ssh>`_
 
+`cpp config doco <https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference>`_
+
 Developer: toggle developer tools, console
 
 Extensions:
