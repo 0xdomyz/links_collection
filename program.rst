@@ -68,9 +68,11 @@ Andrew Koenig, Barbara E. Moo - Accelerated C++_ Practical Programming by Exampl
 
 `boost <https://www.boost.org/>`_
 
+`boost install <https://www.boost.org/doc/libs/1_83_0/more/getting_started/unix-variants.html>`_
+
 `boost libs <https://www.boost.org/doc/libs/1_82_0/libs/libraries.htm>`_
 
-`boost doco <https://www.boost.org/doc/libs/>`_
+`boost lib's doco <https://www.boost.org/doc/libs/>`_
 
 `zeromq <https://zeromq.org/>`_
 
