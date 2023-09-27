@@ -10,7 +10,7 @@ table-of-contents
 * `configs`_
 * `Container`_
 * `Databases`_
-* `Doco`_
+* `Docos`_
 * `Emails`_
 * `ffmpeg`_
 * `git/hub`_
@@ -192,7 +192,7 @@ postgre backup restore::
     pg_dump -h localhost -p 5432 -U postgres -d mydb > backup.sql
     psql -h localhost -p 5432 -U postgres -d mydb < backup.sql
 
-Doco
+Docos
 -----------
 
 `markdown land cheat sheet <https://markdown.land/markdown-cheat-sheet>`_
