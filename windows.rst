@@ -62,6 +62,7 @@ wsl python installation:
     sudo apt install python3.11
     sudo apt install python3-pip
     sudo apt install python3-dev
+    sudo apt-get install python3-tk 
 
     python3.11 -m pip install -U pip
 
