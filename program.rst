@@ -14,6 +14,7 @@ table-of-contents
 * `Emails`_
 * `ffmpeg`_
 * `git/hub`_
+* `image`_
 * `julia`_
 * `linux`_
 * `Other`_
@@ -291,6 +292,15 @@ ignore binaries::
     git clean -n
     git clean -f
     $ git commit --amend -m "New commit message"
+
+image
+---------
+
+downsample a picture::
+
+    sudo apt install graphicsmagick-imagemagick-compat
+    convert input.jpg -resize 30% output.jpg
+    # alternatively use imagemagick-6.q16, imagemagick-6.q16hdri
 
 julia
 --------
