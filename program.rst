@@ -14,7 +14,7 @@ table-of-contents
 * `Emails`_
 * `ffmpeg`_
 * `git/hub`_
-* `image`_
+* `Image`_
 * `julia`_
 * `linux`_
 * `Other`_
@@ -293,7 +293,7 @@ ignore binaries::
     git clean -f
     $ git commit --amend -m "New commit message"
 
-image
+Image
 ---------
 
 downsample a picture::
