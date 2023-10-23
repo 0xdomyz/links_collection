@@ -78,9 +78,11 @@ C++
 C sharp
 ------------
 
+`C# 101 <https://learn.microsoft.com/en-us/shows/csharp-101/>`_
+
 `C# doco <https://learn.microsoft.com/en-us/dotnet/csharp/>`_
 
-`C# 101 <https://learn.microsoft.com/en-us/shows/csharp-101/>`_
+`vscode C# <https://code.visualstudio.com/docs/csharp/get-started>`_
 
 books:
 
