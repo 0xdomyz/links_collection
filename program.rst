@@ -5,6 +5,7 @@ table-of-contents
 * `book`_
 * `C`_
 * `C++`_
+* `C sharp`_
 * `Chrome extension`_
 * `Cloud`_
 * `configs`_
@@ -60,12 +61,6 @@ C
 C++
 -------
 
-Stroustrup B. - The C++ Programming Language, 4th Edition (2013, Addison Wesley)
-
-[C++ in Depth] Bjarne Stroustrup - A Tour of C++ (2022, Addison-Wesley Professional)
-
-Andrew Koenig, Barbara E. Moo - Accelerated C++_ Practical Programming by Example (2000, Addison-Wesley Professional)
-
 `c++ ref <https://en.cppreference.com/w/>`_
 
 `zeromq <https://zeromq.org/>`_
@@ -79,6 +74,19 @@ Andrew Koenig, Barbara E. Moo - Accelerated C++_ Practical Programming by Exampl
 `async <https://solarianprogrammer.com/2012/10/17/cpp-11-async-tutorial/>`_
 
 `sigcpp <https://sigcpp.github.io/>`_
+
+C sharp
+------------
+
+`C# doco <https://learn.microsoft.com/en-us/dotnet/csharp/>`_
+
+`C# 101 <https://learn.microsoft.com/en-us/shows/csharp-101/>`_
+
+books:
+
+`headfirst <https://www.amazon.com.au/dp/1491976705?tag=guru99-22&geniuslink=true>`_
+
+`oneday <https://www.amazon.com.au/dp/B016Z18MLG?tag=guru99-22&geniuslink=true>`_
 
 Chrome extension
 -----------------
