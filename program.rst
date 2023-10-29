@@ -78,7 +78,7 @@ C++
 C sharp
 ------------
 
-`C# 101 <https://learn.microsoft.com/en-us/shows/csharp-101/>`_
+`C# fundamental <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/how-to-display-command-line-arguments>`_
 
 `C# doco <https://learn.microsoft.com/en-us/dotnet/csharp/>`_
 
