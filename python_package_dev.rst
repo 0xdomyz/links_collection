@@ -185,6 +185,16 @@ Quick API:
         :undoc-members:
         :private-members:
 
+sphinx make pdf::
+
+    # install
+    sudo apt-get install texlive-full
+    sudo apt-get install latexmk
+    # test
+    pdflatex document.tex
+    # actual
+    make latexpdf
+
 Lint
 ======
 
