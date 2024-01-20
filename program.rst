@@ -378,7 +378,7 @@ To use systemd to manage a Python script, you will need to use the following com
 R
 -------
 
-`R <https://cloud.r-project.org/>`_
+`r project <https://cloud.r-project.org/>`_
 
 `rstudio <https://www.rstudio.com/products/rstudio/download/#download>`_
 
@@ -391,12 +391,6 @@ R
 `graphic cookbook <https://r-graphics.org/recipe-quick-line>`_
 
 `r4ds <https://r4ds.had.co.nz>`_
-
-`package book <https://r-pkgs.org/>`_
-
-`pkg tute <http://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf>`_
-
-`pkg website <https://pkgdown.r-lib.org/>`_
 
 `reg weigths <https://alvaroaguado3.github.io/forcing-regression-coefficients-in-r-part-i/>`_
 
