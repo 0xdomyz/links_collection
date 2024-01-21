@@ -39,6 +39,7 @@ Contents:
     # add function
     use_package("stringr")
     use_r("strsplit1")
+    # rename_files("strsplit1", "str_split_one")
 
     # spot checks
     # load_all() -> spot check -> edit -> ...
