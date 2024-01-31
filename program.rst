@@ -23,6 +23,7 @@ table-of-contents
 * `R`_
 * `Rust`_
 * `regexp`_
+* `sas`_
 * `sdelete, winfr, diskpart`_
 * `shell`_
 * `ssh`_
@@ -409,6 +410,13 @@ regexp
 -----------
 
 `spec <https://www.regular-expressions.info/>`_
+
+sas
+--------------
+
+`vscodd extn <https://marketplace.visualstudio.com/items?itemName=SAS.sas-lsp>`_
+`free online studio <https://video.sas.com/category/videos/sas-studio>`_
+`videos <https://welcome.oda.sas.com/>`_
 
 sdelete, winfr, diskpart
 --------------------------
