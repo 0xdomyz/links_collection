@@ -139,8 +139,15 @@ powershell scipt/addon::
     #allow script to run
     Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
+    #profile
+    code $PROFILE
+
+    #icon color
+    Import-Module -Name Terminal-Icons
+
     # auto compltete
     Install-Module PSReadLine -Force
+    # in profile
     Set-PSReadLineOption -PredictionSource History
     Set-PSReadLineOption -PredictionViewStyle ListView
     
