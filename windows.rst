@@ -60,7 +60,9 @@ powershell scipt/addon::
     
 windows terminal
 
-`tute <https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal>`_
+`terminal tute <https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal>`_
+
+`zsh tute <https://github.com/christianlempa/videos/tree/main/windows-terminal-powerlevel10k>`_
 
 shortcuts for Windows Terminal::
 
