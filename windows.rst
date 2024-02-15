@@ -64,6 +64,8 @@ windows terminal
 
 `zsh tute <https://github.com/christianlempa/videos/tree/main/windows-terminal-powerlevel10k>`_
 
+`ohmyposh <https://ohmyposh.dev/docs>`_
+
 shortcuts for Windows Terminal::
 
     Ctrl + Shift + T: Open a new tab with the default profile.
