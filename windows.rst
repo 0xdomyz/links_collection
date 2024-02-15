@@ -133,3 +133,16 @@ Alt desktop::
     WIN + CTRL + F4: Close the current desktop.
 
 `unc path <https://stackoverflow.com/questions/21482825/find-unc-path-of-a-network-drive>`_
+
+powershell scipt/addon::
+
+    #allow script to run
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+    # auto compltete
+    Install-Module PSReadLine -Force
+    Set-PSReadLineOption -PredictionSource History
+    Set-PSReadLineOption -PredictionViewStyle ListView
+    
+
+
