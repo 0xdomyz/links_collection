@@ -144,5 +144,20 @@ powershell scipt/addon::
     Set-PSReadLineOption -PredictionSource History
     Set-PSReadLineOption -PredictionViewStyle ListView
     
+windows terminal
 
+shortcuts for Windows Terminal::
+
+    Ctrl + Shift + T: Open a new tab with the default profile.
+    Ctrl + Shift + W: Close the current tab.
+    Ctrl + Tab: Switch to the next tab.
+    Ctrl + Shift + Tab: Switch to the previous tab.
+    Ctrl + Shift + D: Split the pane vertically.
+    Ctrl + Shift + Right Arrow: Resize pane to the right.
+    Ctrl + Shift + Left Arrow: Resize pane to the left.
+    Ctrl + Shift + Up Arrow: Resize pane up.
+    Ctrl + Shift + Down Arrow: Resize pane down.
+    Alt + Shift + D: Split the pane horizontally.
+    Ctrl + Shift + Space: Open the command palette.
+    Ctrl + Shift + 1 through Ctrl + Shift + 9: Open a new tab with the profile corresponding to the number.
 
