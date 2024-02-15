@@ -146,6 +146,8 @@ powershell scipt/addon::
     
 windows terminal
 
+`tute <https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal>`_
+
 shortcuts for Windows Terminal::
 
     Ctrl + Shift + T: Open a new tab with the default profile.
