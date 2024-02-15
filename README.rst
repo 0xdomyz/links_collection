@@ -23,6 +23,8 @@ Tech
 
 `windows <https://github.com/0xdomyz/links_collection/blob/master/windows.rst>`_
 
+`wsl <https://github.com/0xdomyz/links_collection/blob/master/wsl.rst>`_
+
 `Raspberry Pi <https://github.com/0xdomyz/links_collection/blob/master/pi.rst>`_
 
 Other
