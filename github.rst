@@ -21,6 +21,7 @@ change permission if drop ssh into .ssh::
 
     chmod 600 ~/.ssh/id_ed25519
 
+
 new local repo
 -------------------
 
@@ -43,6 +44,17 @@ new local repo
     git remote add origin <remote repository URL>
     git push -u origin main
 
+make branch, push, set tracking to origin same branch::
+
+    git branch -C dev
+    git checkout dev
+    git push origin HEAD
+    git branch --set-upstream-to=origin/dev dev
+
+use a branch from github, set up local tracking branch::
+
+    git checkout --track origin/branch-name
+
 configs
 -------------
 basic::
@@ -61,6 +73,8 @@ custom shortcut::
 
     git config --global alias.s status
     git config --global alias.c '!git add -A && git commit -m'
+
+
 
 content
 
@@ -121,6 +135,11 @@ c::
 
     #amend
     git commit --amend -m "New commit message"
+
+    #undo last commit
+    git clean -n
+    git clean -f
+    $ git commit --amend -m "New commit message"
 
     #add file to last commit
     git add .
@@ -237,7 +256,6 @@ ignore binaries::
     # Unignore all dirs
     !*/
     
-
 
 references
 -------------
