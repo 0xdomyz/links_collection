@@ -408,6 +408,22 @@ ssh
 
 `ssh tips from visual studio <https://code.visualstudio.com/docs/remote/troubleshooting#_ssh-tips>`_
 
+example ssh setup::
+
+    #generate and copy
+    ssh-keygen -t rsa -b 4096 -C "your_email@eexmaple.com"
+    ssh-copy-id user@hostname
+
+    #generate then paste into another system
+    cat ~/.ssh/id_rsa.pub
+
+    # use ssh-agent to manage keys
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_rsa
+
+    # manually add ssh pub key to remote
+    nano ~/.ssh/authorized_keys
+
 style
 -----------
 
