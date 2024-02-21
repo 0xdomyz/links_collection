@@ -28,6 +28,7 @@ table-of-contents
 * `ssh`_
 * `style`_
 * `vim`_
+* `virtual mach`_
 * `visual studio`_
 * `web`_
 * `windows`_
@@ -203,6 +204,12 @@ postgre backup restore::
     pg_dump -h localhost -p 5432 -U postgres -d mydb > backup.sql
     psql -h localhost -p 5432 -U postgres -d mydb < backup.sql
 
+`teradata clearscape <https://www.teradata.com/getting-started/demos/clearscape-analytics>`_
+
+teradata via sqlalchemy::
+
+    pip install teradatasqlalchemy
+
 Docos
 -----------
 
@@ -305,7 +312,6 @@ Other
 
 `exit nano <https://bitlaunch.io/blog/how-to-exit-nano/>`_
 
-`virtual mach <https://windowsreport.com/virtual-machine-software/>`_
 
 `qtorrent <https://www.qbittorrent.org/>`_
 
@@ -437,6 +443,14 @@ vim
 `cheatsheet <https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet>`_
 
 `set up for python <https://realpython.com/vim-and-python-a-match-made-in-heaven/>`_
+
+virtual mach
+----------------
+
+`virtual mach soft <https://windowsreport.com/virtual-machine-software/>`_
+
+`VMWare player <https://www.vmware.com/products/workstation-player.html>`_
+
 
 visual studio
 ---------------
