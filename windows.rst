@@ -21,6 +21,8 @@ terminal screen buffer size::
 
 `add to startup <https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd>`_
 
+`prtsc key <https://www.msn.com/en-us/news/technology/a-useless-button-no-way-print-screen-on-your-keyboard-actually-does-a-lot/ar-BB1hqywD>`_
+
 Add program to startmenu:
 
 .. code-block:: text
@@ -57,7 +59,7 @@ powershell scipt/addon::
     # in profile
     Set-PSReadLineOption -PredictionSource History
     Set-PSReadLineOption -PredictionViewStyle ListView
-    
+
 windows terminal
 
 `terminal tute <https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal>`_
