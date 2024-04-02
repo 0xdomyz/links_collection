@@ -419,17 +419,22 @@ example ssh setup::
 
     #generate and copy
     ssh-keygen -t rsa -b 4096 -C "your_email@eexmaple.com"
-    ssh-copy-id user@hostname
-
-    #generate then paste into another system
-    cat ~/.ssh/id_rsa.pub
-
-    # use ssh-agent to manage keys
-    eval "$(ssh-agent -s)"
+    
+    # optionally, use ssh-agent to manage passcodes, if have one
+    # ssh-agent is a program to hold private keys used for public key authentication
+    eval "$(ssh-agent -s)" # start the ssh-agent in the background
     ssh-add ~/.ssh/id_rsa
 
+    # if have ssh-copy-id
+    ssh-copy-id user@hostname
+
+    #alternatively, generate then paste into another system
+    cat ~/.ssh/id_rsa.pub
     # manually add ssh pub key to remote
     nano ~/.ssh/authorized_keys
+    # alternatively, vim
+    vim ~/.ssh/authorized_keys
+    # paste in, then :wq to save and exit
 
 example ssh setup2::
 
@@ -439,6 +444,7 @@ example ssh setup2::
     ls -l ~/.ssh/id_rsa_example*
     cat ~/.ssh/id_rsa_example
 
+    # use the -i option to specify the private key file-
     ssh -i ~/.ssh/id_rsa_example ec2-user@{numbers}.compute-1.amazonaws.com
     ssh -i ~/.ssh/id_rsa_example ec2-user@{ip}
 
