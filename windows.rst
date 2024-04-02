@@ -83,3 +83,4 @@ shortcuts for Windows Terminal::
     Ctrl + Shift + Space: Open the command palette.
     Ctrl + Shift + 1 through Ctrl + Shift + 9: Open a new tab with the profile corresponding to the number.
 
+
