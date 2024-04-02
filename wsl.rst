@@ -91,3 +91,14 @@ wsl python path:
     #add python path to .bashrc
     code .bashrc
     export PATH=”$PATH:/home/{your_linux_username}/.local/bin”
+
+list of chmods::
+
+    # 777: read, write, and execute access for everyone
+    chmod 777 -R ~/folder # -R recursive
+    # 755: read and execute access for everyone, write access for the owner
+    chmod 755 ~/folder 
+    # 700: read, write, and execute access for the owner, no access for everyone else
+    chmod 700 ~/folder
+    # 400: read access for the owner, no access for everyone else
+    chmod 400 ~/folder
