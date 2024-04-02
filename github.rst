@@ -19,7 +19,7 @@ set up
 
 change permission if drop ssh into .ssh::
 
-    chmod 600 ~/.ssh/id_ed25519
+    chmod 600 ~/.ssh/id_ed25519 # 600 means only you can read and write
 
 
 new local repo
