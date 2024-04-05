@@ -47,6 +47,7 @@ Vscode shortcuts::
     ctrl + ` # toggle terminal
     ctrl + shift + p task # run task
     ctrl + shift + p snippet # insert snippet
+    ctrl + shift + - # split editor
     shift + alt + f12 # show all references
     right click, find all references, rename symbol
 
