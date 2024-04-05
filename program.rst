@@ -418,7 +418,9 @@ ssh
 example ssh setup::
 
     #generate and copy
-    ssh-keygen -t rsa -b 4096 -C "your_email@eexmaple.com"
+    ssh-keygen -t rsa -b 4096 -C "your_email@exmaple.com"
+    #alternatively with diff locations
+    ssh-keygen -t rsa -b 4096 -C "your_email@example.com" -f "C:/path/to/your/directory/id_rsa"
     
     # optionally, use ssh-agent to manage passcodes and more
     # ssh-agent is a program to hold private keys used for public key authentication
