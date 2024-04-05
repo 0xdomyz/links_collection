@@ -420,9 +420,10 @@ example ssh setup::
     #generate and copy
     ssh-keygen -t rsa -b 4096 -C "your_email@eexmaple.com"
     
-    # optionally, use ssh-agent to manage passcodes, if have one
+    # optionally, use ssh-agent to manage passcodes and more
     # ssh-agent is a program to hold private keys used for public key authentication
     eval "$(ssh-agent -s)" # start the ssh-agent in the background
+    # Start-Service ssh-agent # windows powershell
     ssh-add ~/.ssh/id_rsa
 
     # if have ssh-copy-id
