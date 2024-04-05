@@ -55,6 +55,22 @@ use a branch from github, set up local tracking branch::
 
     git checkout --track origin/branch-name
 
+create a fork, then add original as a remote::
+
+    # create a fork on github, then clone it, cd into it
+
+    # Add the original repository as a remote named 'upstream'
+    git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+
+    # Fetch the branches and their commits from the 'upstream'
+    git fetch upstream
+
+    # Switch to your local 'main' or 'master' branch
+    git checkout main
+
+    # Merge the changes from 'upstream/main' into your local 'main' branch
+    git merge upstream/main
+
 configs
 -------------
 basic::
@@ -73,8 +89,6 @@ custom shortcut::
 
     git config --global alias.s status
     git config --global alias.c '!git add -A && git commit -m'
-
-
 
 content
 
