@@ -255,6 +255,74 @@ w::
     git worktree prune
     git worktree remove ../branch-name
 
+git diff
+^^^^^^^^^
+
+Usage::
+
+    git diff topic master    # (1) Changes between the tips of the topic and the master branches.
+    git diff topic..master   # (2) Same as above.
+    git diff topic...master  # (3) Changes that occurred on the master branch since when the topic branch was started off it.
+
+
+Example in powershell::
+
+    # Create a new master branch
+    git init git-diff-example
+    cd git-diff-example
+    echo "Hello" > hello.txt
+    echo "World" > world.txt
+    git add .
+    git commit -m "Initial commit"
+
+    # Create a new branch and make some changes
+    git checkout -b topic
+    echo "Hello World" > hello.txt
+    echo "modified" > world.txt
+    git add .
+    git commit -m "Modified hello.txt and world.txt"
+
+    # Switch back to master and make some changes
+    git checkout master
+    echo "Master" > master.txt
+    echo "Master hello" > hello.txt
+    git add .
+    git commit -m "Added master.txt and modified hello.txt"
+
+git diff topic master::
+
+    --- a/hello.txt
+    +++ b/hello.txt
+    -Hello World
+    +Master hello
+
+    --- /dev/null
+    +++ b/master.txt
+    @@ -0,0 +1 @@
+    +Master
+
+    --- a/world.txt
+    +++ b/world.txt
+    @@ -1 +1 @@
+    -modified
+    +World
+
+git diff topic...master::
+
+    --- a/hello.txt
+    +++ b/hello.txt
+    -Hello
+    +Master hello
+
+    --- /dev/null
+    +++ b/master.txt
+    @@ -0,0 +1 @@
+    +Master
+
+
+
+
+
 
 ignore
 -------------
