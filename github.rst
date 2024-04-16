@@ -320,9 +320,27 @@ git diff topic...master::
     +Master
 
 
+git stash
+^^^^^^^^^^^
 
+Interrupted workflow::
 
+    # Create a new repository
+    git init
+    echo "Hello" > hello.txt
+    git add hello.txt
+    git commit -m "Initial commit"
 
+    # Make some changes that are WIP
+    echo "World" > world.txt
+    echo "Goodbye" >> hello.txt
+    
+    # stash the working dir and index, make some changes, then pop the stash to continue
+    # untracked files are not stashed
+    git stash
+    echo "!" >> hello.txt
+    git commit -a -m "Fix in a hurry"
+    git stash pop
 
 ignore
 -------------
