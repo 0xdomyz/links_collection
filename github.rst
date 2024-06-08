@@ -204,6 +204,10 @@ p::
     git pull --rebase
     git pull --rebase origin branch-name
 
+    # make a patch file from a commit
+    git format-patch -1 
+    git format-patch -1 0123456
+
 r::
 
     git remote -v
