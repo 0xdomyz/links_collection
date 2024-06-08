@@ -138,6 +138,8 @@ b::
 
 c::
 
+    git -C /path/to/repo status
+
     git checkout branch-name
     git checkout -b branch-name
     git checkout -b branch-name origin/branch-name
@@ -145,14 +147,15 @@ c::
     git checkout -
 
     #use a branch from github, set up local tracking branch
+    git checkout -t origin/branch-name
     git checkout --track origin/branch-name
 
     #amend
     git commit --amend -m "New commit message"
 
     #undo last commit
-    git clean -n
-    git clean -f
+    git clean -n # show what will be removed
+    git clean -f # remove
     $ git commit --amend -m "New commit message"
 
     #add file to last commit
@@ -211,9 +214,15 @@ r::
     git reset --hard origin/master
     git clean -df
 
-    #squash commits
-    git rebase master -i
-    #pick, squash, edit, reword, fixup, exec, drop
+    #interactive rebase to reorgansie commits
+    git rebase -i 01482b4
+    #reorganise via cmds: pick, squash, edit, reword, fixup, exec, drop
+
+    # squash and reorder example
+    git rebase -i 0000000
+    # pick 0000002
+    # squash 0000003
+    # pick 0000001
 
     #auto squash commits
     git commit -m "fix: fix bug"
@@ -223,7 +232,7 @@ r::
     #revert last commit
     git revert HEAD
     #revert but preserve changes
-    git revert HEAD --no-commit    
+    git revert HEAD --no-commit
 
 s::
 
