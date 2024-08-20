@@ -19,7 +19,7 @@ table-of-contents
 * `linux`_
 * `Other`_
 * `Process manager`_
-* `R`_
+* `R Program`_
 * `Rust`_
 * `regexp`_
 * `sas`_
@@ -333,8 +333,8 @@ To use systemd to manage a Python script, you will need to use the following com
 
 `systemd manage streamlit <https://fuzzyblog.io/blog/python/2019/11/13/making-a-streamlit-machine-learning-app-into-a-systemd-service.html>`_
 
-R
--------
+R Program
+-----------
 
 `r project <https://cloud.r-project.org/>`_
 
@@ -351,6 +351,12 @@ R
 `r4ds <https://r4ds.had.co.nz>`_
 
 `reg weigths <https://alvaroaguado3.github.io/forcing-regression-coefficients-in-r-part-i/>`_
+
+R kernel for jupyter:: 
+
+    install.packages("devtools")
+    devtools::install_github("IRkernel/IRkernel")
+    IRkernel::installspec()
 
 Rust
 ----------
