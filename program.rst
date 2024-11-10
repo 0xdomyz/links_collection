@@ -251,8 +251,9 @@ commands::
     #capture sound on windows
     ffmpeg -f dshow -i audio="Stereo Mix (Realtek High Definition Audio)" aaa.mp3
 
-    #increase volume
+    #modify volume
     ffmpeg -i input.wav -filter:a "volume=1.5" output.wav
+    ffmpeg -i input.mp3 -filter:a "volume=0.8" output.mp3
 
     #cut end
     ffmpeg -i "audio.mp3" 2>&1 | grep "Duration" | cut -d " " -f 4
