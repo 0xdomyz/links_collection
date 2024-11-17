@@ -17,6 +17,8 @@ terminal screen buffer size::
 
 `windows off screen <https://www.alphr.com/find-recover-off-screen-window-windows-10/>`_
 
+`close excel right panel <https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-msoffice_unknown-mso_subother/keyboard-shortcuts-for-moving-between-application/11dd8df2-ff0a-4a05-95f5-4ebe181661ad?messageId=8e404492-4d86-49bd-b064-ef04d675d33b>`_
+
 `edge shortcuts <https://support.microsoft.com/en-us/microsoft-edge/keyboard-shortcuts-in-microsoft-edge-50d3edab-30d9-c7e4-21ce-37fe2713cfad>`_
 
 `add to startup <https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd>`_
