@@ -239,6 +239,8 @@ screen dim::
     sudo apt upgrade
     echo sudo apt full-upgrade
 
+`reboot <https://jamesjdavis.medium.com/how-to-restart-raspberry-pi-safely-and-quickly-488243907fa3>`_
+
 shutdown::
 
     sudo poweroff
