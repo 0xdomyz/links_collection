@@ -353,7 +353,7 @@ R Program
 
 `reg weigths <https://alvaroaguado3.github.io/forcing-regression-coefficients-in-r-part-i/>`_
 
-R kernel for jupyter:: 
+`R kernel for jupyter <https://www.rdocumentation.org/packages/IRkernel>`_:: 
 
     install.packages("devtools")
     devtools::install_github("IRkernel/IRkernel")
