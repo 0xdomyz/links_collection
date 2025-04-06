@@ -21,8 +21,6 @@ terminal screen buffer size::
 
 `edge shortcuts <https://support.microsoft.com/en-us/microsoft-edge/keyboard-shortcuts-in-microsoft-edge-50d3edab-30d9-c7e4-21ce-37fe2713cfad>`_
 
-`add to startup <https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd>`_
-
 `prtsc key <https://www.msn.com/en-us/news/technology/a-useless-button-no-way-print-screen-on-your-keyboard-actually-does-a-lot/ar-BB1hqywD>`_
 
 Add program to startmenu:
@@ -35,7 +33,9 @@ Add program to startmenu:
     %AppData%\Microsoft\Windows\Start Menu\Programs
 
     #apps
-    shell:appsfolder
+    shell:appsfolder # then make shortcut then drag to startmenu folder
+
+`add to startup <https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd>`_
 
 Alt desktop::
 
