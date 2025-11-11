@@ -1,16 +1,4 @@
-======================
-table-of-contents
-======================
-
-#. `set up`_
-#. `new local repo`_
-#. `configs`_
-#. `example usages`_
-#. `ignore`_
-#. `references`_
-
-
-set up
+set_up
 -----------
 
 `git <https://docs.github.com/en/get-started/quickstart/set-up-git>`_
@@ -20,6 +8,13 @@ set up
 change permission if drop ssh into .ssh::
 
     chmod 600 ~/.ssh/id_ed25519 # 600 means only you can read and write
+
+basic flow example::
+
+    ssh-keygen -t ed25519 -C "a@b.com"
+    eval "$(ssh-agent -s)"
+    ssh-add ~/.ssh/id_ed25519
+    cat ~/.ssh/id_ed25519.pub
 
 
 new local repo
