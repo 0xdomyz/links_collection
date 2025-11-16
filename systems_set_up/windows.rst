@@ -2,6 +2,7 @@ windows
 -------------
 
 #. browsers
+#. 7-zip, winrar
 #. vnc, putty
 #. credential files
 #. Project dir
