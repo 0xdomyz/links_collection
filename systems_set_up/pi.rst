@@ -161,6 +161,15 @@ python packages
 
     pip install --upgrade setuptools
 
+packages only::
+
+    pip install -U pandas
+    pip install -U psycopg2
+    pip install -U sqlalchemy
+    pip install -U jinja2
+    pip install -U streamlit
+    pip install -U matplotlib
+
 pyarrow issues
 ^^^^^^^^^^^^^^^^^^^^
 
