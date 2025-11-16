@@ -169,6 +169,9 @@ packages only::
     pip install -U jinja2
     pip install -U streamlit
     pip install -U matplotlib
+    pip install -U loguru
+    pip install -U openpyxl
+
 
 pyarrow issues
 ^^^^^^^^^^^^^^^^^^^^
