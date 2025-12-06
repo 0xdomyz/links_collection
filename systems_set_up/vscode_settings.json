@@ -1,6 +1,5 @@
 {
     "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter",
         "editor.codeActionsOnSave": {
             "source.organizeImports": "explicit",
         },
@@ -29,20 +28,17 @@
         "markdown": true,
         "scminput": false
     },
+    "github.copilot.nextEditSuggestions.enabled": true,
     "gitlens.codeLens.enabled": false,
     "gitlens.currentLine.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
-    "remote.SSH.remotePlatform": {
-        "192.168.0.166": "linux",
-        "192.168.0.251": "linux"
-    },
     "security.workspace.trust.untrustedFiles": "open",
     "terminal.explorerKind": "external",
     "terminal.integrated.commandsToSkipShell": [
         "language-julia.interrupt"
     ],
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
             "source": "PowerShell",
