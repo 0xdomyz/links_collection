@@ -22,7 +22,7 @@ Extensions:
 - gitlens
 - docker
 
-`example settings <https://github.com/0xdomyz/links_collection/blob/master/vscode_settings.json>`_
+`example settings <https://github.com/0xdomyz/links_collection/blob/master/systems_set_up/vscode_settings.json>`_
 
 Vscode shortcuts::
 
