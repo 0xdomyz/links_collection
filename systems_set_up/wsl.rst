@@ -48,32 +48,6 @@ wsl start pgsql::
 
      sudo service postgresql status > /dev/null || sudo service postgresql start
 
-wsl python installation:
-
-.. code-block:: console
-
-    sudo apt install python3.11
-    sudo apt install python3-pip
-    sudo apt install python3-dev
-    sudo apt-get install python3-tk 
-
-    python3.11 -m pip install -U pip
-
-    python3.11 -m pip install numpy
-    python3.11 -m pip install pandas
-    python3.11 -m pip install scikit-learn
-    python3.11 -m pip install seaborn
-    
-    python3.11 -m pip install sqlalchemy
-    
-    sudo apt install postgresql
-    sudo apt install libpq-dev
-    sudo apt-get install libatlas-base-dev
-    #python3.11 -m pip install psycopg2
-    python3.11 -m pip install psycopg2-binary
-
-    python3.11 -m pip install Cython
-
 wsl python path:
 
 .. code-block:: console
