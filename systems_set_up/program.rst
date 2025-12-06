@@ -31,8 +31,6 @@ table-of-contents
 * `virtual mach`_
 * `visual studio`_
 * `web`_
-* `windows`_
-* `wsl`_
 
 book
 ------
@@ -498,14 +496,5 @@ web
 
 `chartjs <https://www.chartjs.org/>`_
 
-windows
-----------
-
-`windows page <https://github.com/0xdomyz/links_collection/blob/master/windows.rst>`_
-
-wsl
-----------
-
-`wsl page <https://github.com/0xdomyz/links_collection/blob/master/wsl.rst>`_
 
 
