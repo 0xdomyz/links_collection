@@ -1,4 +1,3 @@
-
 #. download git
 #. use git bash
 #. get key if don't have one already
