@@ -142,36 +142,18 @@ python packages
 
 .. code-block:: console
 
-    pip install -U pip
-    sudo apt-get install libatlas-base-dev
-    python3 -m pip install -U pandas
-
-    sudo apt install python3-dev
-    sudo apt install libpq-dev
-    pip install psycopg2
-    pip install sqlalchemy
-
-    pip install -U jinja2
-    pip install streamlit
-
-    pip install duckdb
-
-    sudo apt install build-essential
-    pip install Cython
-
-    pip install --upgrade setuptools
+    sudo apt update
+    sudo apt install python3 python3-pip python3-venv \
+    python3-dev libpq-dev build-essential \
+    libssl-dev libffi-dev
 
 packages only::
 
-    pip install -U pandas
-    pip install -U psycopg2
-    pip install -U sqlalchemy
-    pip install -U jinja2
-    pip install -U streamlit
-    pip install -U matplotlib
-    pip install -U loguru
-    pip install -U openpyxl
-
+    python -m pip install -U pandas matplotlib openpyxl
+    python -m pip install -U psycopg2 sqlalchemy
+    python -m pip install -U jinja2 streamlit
+    python -m pip install -U duckdb loguru
+    jupyter
 
 pyarrow issues
 ^^^^^^^^^^^^^^^^^^^^
