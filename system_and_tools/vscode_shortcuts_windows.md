@@ -37,8 +37,6 @@ A concise cheat sheet of essential keyboard shortcuts for Visual Studio Code on 
 | Ctrl+K Ctrl+]           | Unfold (uncollapse) all subregions  |
 | Ctrl+K Ctrl+0           | Fold (collapse) all regions         |
 | Ctrl+K Ctrl+J           | Unfold (uncollapse) all regions     |
-| Ctrl+K Ctrl+C           | Add line comment                    |
-| Ctrl+K Ctrl+U           | Remove line comment                 |
 | Ctrl+/                  | Toggle line comment                 |
 | Shift+Alt+A             | Toggle block comment                |
 | Alt+Z                   | Toggle word wrap                    |
@@ -183,6 +181,5 @@ A concise cheat sheet of essential keyboard shortcuts for Visual Studio Code on 
 | Ctrl+↑ / ↓              | Scroll up/down                 |
 | Shift+PgUp / PgDn       | Scroll page up/down            |
 | Ctrl+Home / End         | Scroll to top/bottom           |
-| Ctrl+K                  | Clear terminal                 |
-| Ctrl+Shift+C            | Copy path of active file       |
+| Ctrl+L                  | Clear terminal                 |
 
