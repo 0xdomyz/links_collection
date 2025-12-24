@@ -24,33 +24,6 @@ Extensions:
 
 `example settings <https://github.com/0xdomyz/links_collection/blob/master/systems_set_up/vscode_settings.json>`_
 
-Vscode shortcuts::
-
-    ctrl + p # command palette
-    ctrl + p > # settings
-    ctrl + shift + p # settings
-    ctrl + shift + . # find file
-    ctrl + p @ # symbol
-    ctrl + p {file name} # open file
-    ctrl + p :{line number} # open file at line number
-    shift + arrow # select
-    ctrl + arrow # move cursor
-    ctrl + d # select next
-    ctrl + h # replace
-    alt + click # select multiple
-    ctrl + x # cut line
-    alt + arrow # move line
-    alt + shift + arrow # copy line
-    ctrl + l # select line
-    ctrl + / # comment line
-    ctrl + \ # split
-    ctrl + ` # toggle terminal
-    ctrl + shift + p task # run task
-    ctrl + shift + p snippet # insert snippet
-    ctrl + shift + - # split editor
-    shift + alt + f12 # show all references
-    right click, find all references, rename symbol
-
 preferences open keyboard shortcuts (json):
 
 .. code-block:: json
