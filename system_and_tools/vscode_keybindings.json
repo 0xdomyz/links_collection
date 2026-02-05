@@ -1,0 +1,142 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+f6",
+        "command": "workbench.action.terminal.kill",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+f7",
+        "command": "workbench.action.toggleMaximizedPanel",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "shift+alt+-",
+        "command": "workbench.action.decreaseViewSize"
+    },
+    {
+        "key": "shift+alt+=",
+        "command": "workbench.action.increaseViewSize"
+    },
+    {
+        "key": "alt+pageup",
+        "command": "cursorMove",
+        "args": {
+            "to": "up",
+            "by": "line",
+            "value": 20,
+        },
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+pagedown",
+        "command": "cursorMove",
+        "args": {
+            "to": "down",
+            "by": "line",
+            "value": 20,
+        },
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+pageup",
+        "command": "cursorMove",
+        "args": {
+            "to": "prevBlankLine"
+        },
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+pagedown",
+        "command": "cursorMove",
+        "args": {
+            "to": "nextBlankLine"
+        },
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+b",
+        "command": "workbench.action.toggleAuxiliaryBar"
+    },
+    {
+        "key": "ctrl+alt+f",
+        "command": "workbench.action.focusAuxiliaryBar",
+        "when": "auxiliaryBarVisible"
+    },
+    {
+        "key": "ctrl+alt+=",
+        "command": "workbench.action.increaseViewWidth",
+        "when": "auxiliaryBarFocus"
+    },
+    {
+        "key": "ctrl+shift+alt+up",
+        "command": "-cursorColumnSelectUp",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+alt+pageup",
+        "command": "-cursorColumnSelectPageUp",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+alt+pagedown",
+        "command": "-cursorColumnSelectPageDown",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+pageup",
+        "command": "-quickInput.pagePrevious",
+        "when": "inQuickInput && quickInputType == 'quickPick' || inQuickInput && quickInputType == 'quickTree'"
+    },
+    {
+        "key": "alt+pageup",
+        "command": "-scrollPageUp",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+pagedown",
+        "command": "-quickInput.pageNext",
+        "when": "inQuickInput && quickInputType == 'quickPick' || inQuickInput && quickInputType == 'quickTree'"
+    },
+    {
+        "key": "alt+pagedown",
+        "command": "-scrollPageDown",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+n t",
+        "command": "github.copilot.chat.generateTests"
+    },
+    {
+        "key": "ctrl+n i",
+        "command": "github.copilot.chat.generate"
+    },
+    {
+        "key": "ctrl+n d",
+        "command": "github.copilot.chat.generateDocs"
+    },
+    {
+        "key": "ctrl+n a",
+        "command": "github.copilot.chat.attachFile"
+    },
+    {
+        "key": "ctrl+n f",
+        "command": "workbench.action.files.newUntitledFile"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "-workbench.action.files.newUntitledFile"
+    },
+    {
+        "key": "ctrl+n n",
+        "command": "openEditors.newUntitledFile"
+    },
+    {
+        "key": "ctrl+shift+g",
+        "command": "-editor.action.announceCursorPosition"
+    },
+    {
+        "key": "ctrl+shift+g",
+        "command": "workbench.scm.focus"
+    }
+]
