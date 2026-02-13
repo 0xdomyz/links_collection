@@ -37,7 +37,7 @@
     "terminal.integrated.commandsToSkipShell": [
         "language-julia.interrupt"
     ],
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
@@ -57,7 +57,6 @@
         }
     },
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Default Dark+",
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "window.menuBarVisibility": "visible",
     "jupyter.askForKernelRestart": false,
@@ -69,4 +68,28 @@
         "activeProfile": "",
         "profiles": {}
     },
+    "python.createEnvironment.trigger": "off",
+    "background.sidebarBackgrounds": [],
+    "background.autoInstall": false,
+    "background.editorBackgrounds": [
+        "c:/Users/yzdom/OneDrive/d/wallpaper/**"
+    ],
+    "settingsSync.ignoredSettings": [],
+    "files.associations": {
+        "*.rmd": "markdown"
+    },
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "vscode-office.editorTheme": "Auto",
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.md": "default",
+        "*.pdf": "pdf.preview"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "chat.agent.maxRequests": 100,
+    "inlineChat.notebookAgent": true,
+    "chat.viewSessions.orientation": "stacked",
+    "editor.accessibilitySupport": "off",
+    "terminal.external.windowsExec": "powershell",
 }
